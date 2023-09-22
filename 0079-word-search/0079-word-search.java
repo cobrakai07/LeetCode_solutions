@@ -12,7 +12,7 @@ class Solution {
             }
             return;
         }
-        
+
         if((idx==board.length&&idy==board[0].length)||(idx<0)||(idy<0))return;
 
         if(idx+1<board.length)//down
@@ -82,7 +82,7 @@ class Solution {
                 }
             }
         }
-        if(flag)return true;
+        if(flag)return true;//what if last iteration is true;
         return false;
     }
 }
