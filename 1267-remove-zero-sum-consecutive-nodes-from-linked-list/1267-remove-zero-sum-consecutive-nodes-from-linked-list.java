@@ -75,10 +75,6 @@ class Solution {
           }
         }
 
-        // for(int i=0;i<list.size();i++)
-        // {
-        //   System.out.print(list.get(i).val+" ");
-        // }
-            return nhead;
+    return nhead;
     }
 }
