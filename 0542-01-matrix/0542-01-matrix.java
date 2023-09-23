@@ -12,7 +12,6 @@ class Solution {
                 {
                     q.offer(new Pair(new Pair(i,j),0));
                     visited[i][j]=1;
-                    dis[i][j]=0;
                 }
             }
         }
@@ -49,7 +48,7 @@ class Solution {
                q.offer(new Pair(new Pair(x,y-1),distance+1));
            }
         }
-        
+
         return dis;
     }
 }
