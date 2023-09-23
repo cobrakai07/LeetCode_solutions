@@ -1,32 +1,20 @@
 class Solution {
-
     int ans=0;
-    private int sum(int []arr)
-    {
-        int s=0;
-        for(int x: arr)
-        {
-            s=s+x;
-        }
-        return s;
-    }
-    private void fun(int idx,int[]nums,int target)
+    private void fun(int idx,int[]nums,int currSum,int target)
     {
         if(idx==nums.length)
         {
-            if(target==sum(nums))
+            if(target==currSum)
               ans++;
             return;
         }
-
         nums[idx]=-nums[idx];
-        fun(idx+1,nums,target);
+        fun(idx+1,nums,currSum+nums[idx],target);
         nums[idx]=-nums[idx];
-
-        fun(idx+1,nums,target);
+        fun(idx+1,nums,currSum+nums[idx],target);
     }
     public int findTargetSumWays(int[] nums, int target) {
-       fun(0,nums,target);
+       fun(0,nums,0,target);
        return ans; 
     }
 }
