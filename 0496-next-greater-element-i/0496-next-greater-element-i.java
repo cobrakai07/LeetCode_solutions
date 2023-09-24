@@ -8,7 +8,7 @@ class Solution {
         }
         return stk;
     }
-    
+
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
 
         int ans[]=new int[nums1.length];
@@ -24,7 +24,6 @@ class Solution {
             if(stk.peek()==nums1[i])
             {
                  stk.pop();
-                System.out.println("milaaa");
                 while(!stk.isEmpty()&&stk.peek()<nums1[i])
                     stk.pop();
                 if(stk.isEmpty()) 
