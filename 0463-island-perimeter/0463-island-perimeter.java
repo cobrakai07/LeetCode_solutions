@@ -45,9 +45,9 @@ class Solution {
       }
     }
     public int islandPerimeter(int[][] grid) {
-      int totalPeri=0;
+
       boolean flag1=false;
-      boolean flag2=false;
+ 
       int x=-1,y=-1;
         for(int i=0;i<grid.length;i++)
         {
@@ -61,24 +61,12 @@ class Solution {
                 y=j;
                 flag1=true;
               }
-
-              totalPeri+=4;
-            }
-            else
-            {
-              if(!flag2)
-              {
-                flag2=true;
-              }
             }
           }
         }
-        if(!flag2)
-        {
-          return (2*(grid.length+grid[0].length));
-        }
       int visited[][]= new int [grid.length][grid[0].length];
       fun(x,y,visited,grid);
+
       return peri;
       
     }
