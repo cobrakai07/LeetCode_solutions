@@ -94,20 +94,11 @@ class Solution {
             }
         }
 
-        List<HashSet<Pair<Integer,Integer>>>list=new ArrayList<>();
+
        for(HashSet<Pair<Integer,Integer>>key: setOfRegions.keySet() )
        {
            if(isCoveredWithX(key,board))
-           {
-               System.out.println("key: "+key);
-                 list.add(key);
-           }
-              
-                //fillRegion(key,board);
+             fillRegion(key,board);
        }
-       for(int i=0;i<list.size();i++)
-        fillRegion(list.get(i),board);
-    
-    System.out.println(setOfRegions);
     }
 }
