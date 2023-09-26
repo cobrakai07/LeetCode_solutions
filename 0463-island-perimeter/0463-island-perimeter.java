@@ -9,7 +9,6 @@ class Solution {
 
       if(idx-1>=0&&grid[idx-1][idy]==1&&visited[idx-1][idy]!=1)
       {
-        // peri--;
         fun(idx-1,idy,visited,grid);
       }
       else
@@ -19,7 +18,6 @@ class Solution {
       }
       if(idx+1<grid.length&&grid[idx+1][idy]==1&&visited[idx+1][idy]!=1)
       {
-        // peri--;
         fun(idx+1,idy,visited,grid);
       }
       else
@@ -29,7 +27,6 @@ class Solution {
       }
       if(idy-1>=0&&grid[idx][idy-1]==1&&visited[idx][idy-1]!=1)
       {
-        // peri--;
         fun(idx,idy-1,visited,grid);
       }
       else
@@ -39,7 +36,6 @@ class Solution {
       }
       if(idy+1<grid[0].length&&grid[idx][idy+1]==1&&visited[idx][idy+1]!=1)
       {
-        // peri--;
         fun(idx,idy+1,visited,grid);
       }
       else
@@ -83,8 +79,6 @@ class Solution {
         }
       int visited[][]= new int [grid.length][grid[0].length];
       fun(x,y,visited,grid);
-      //System.out.println(peri+"=="+totalPeri);
-      //return totalPeri+(peri*2);
       return peri;
       
     }
