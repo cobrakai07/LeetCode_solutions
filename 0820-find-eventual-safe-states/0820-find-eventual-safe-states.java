@@ -27,12 +27,12 @@ class Solution {
         int []pathVis=new int [graph.length];
         List<Integer>ans=new ArrayList<>();
        
-        for(int i=0;i<graph.length;i++)
+        for(int i=0;i<graph.length;i++)  //we need to check from every node 
             dfs(i,vis,pathVis,graph);
         
          for(int i=0;i<graph.length;i++)
             {
-                if(pathVis[i]==0)
+                if(pathVis[i]==0)//means no cycle from this node
                    ans.add(i);
             }
 
