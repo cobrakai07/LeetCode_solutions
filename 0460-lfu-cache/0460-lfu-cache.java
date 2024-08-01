@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Node {
     int key, value, freq;
     Node prev, next;
