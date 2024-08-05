@@ -16,10 +16,10 @@ class Solution {
                 // System.out.println(mp+" "+s+","+e+" --"+max);
                 e++;
             }else{
-                while(mp.get(nums[e])>k){
-                    mp.put( nums[s], mp.get(nums[s])-1 );
-                    s++;
-                }
+                // while(mp.get(nums[e])>k){
+                //     mp.put( nums[s], mp.get(nums[s])-1 );
+                //     s++;
+                // }
             }
         }
         return max;
