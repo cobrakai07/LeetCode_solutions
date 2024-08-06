@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
