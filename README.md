@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
 | [0947-online-election](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0947-online-election) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
