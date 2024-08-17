@@ -14,7 +14,7 @@ class Solution {
 
         List<int[]>ans = new ArrayList<>();
 
-        if(s<e && s<intervals.length && e!=-1){
+        if(s<=e && s<intervals.length && e!=-1){
             int idx=0;
             while(s!=idx){ans.add(intervals[idx]); idx++;}
             
@@ -28,20 +28,20 @@ class Solution {
             ans.forEach(ee->System.out.print(ee[0]+","+ee[1]+" "));
             System.out.println("s<e");
         }
-        else if(s==e && s<intervals.length && e!=-1){
-            int idx=0;
-            while(s!=idx){ans.add(intervals[idx]); idx++;}
+        // else if(s==e && s<intervals.length && e!=-1){
+        //     int idx=0;
+        //     while(s!=idx){ans.add(intervals[idx]); idx++;}
             
-            int[]sarr=intervals[s];
-            int[]earr=intervals[e];
-            int start= Math.min( Math.min(newInterval[0],sarr[0]), Math.min(newInterval[0],sarr[1]));
-            int end= Math.max( Math.max(newInterval[1],earr[0]), Math.max(newInterval[1],earr[1]));
-            ans.add(new int[]{start,end});
-            idx=e+1;
-            while(idx<intervals.length){ans.add(intervals[idx]); idx++;}
-            ans.forEach(ee->System.out.print(ee[0]+","+ee[1]+" "));
-            System.out.println("equals");
-        }
+        //     int[]sarr=intervals[s];
+        //     int[]earr=intervals[e];
+        //     int start= Math.min( Math.min(newInterval[0],sarr[0]), Math.min(newInterval[0],sarr[1]));
+        //     int end= Math.max( Math.max(newInterval[1],earr[0]), Math.max(newInterval[1],earr[1]));
+        //     ans.add(new int[]{start,end});
+        //     idx=e+1;
+        //     while(idx<intervals.length){ans.add(intervals[idx]); idx++;}
+        //     ans.forEach(ee->System.out.print(ee[0]+","+ee[1]+" "));
+        //     System.out.println("equals");
+        // }
          else{
             int idx=0;
             while(idx<intervals.length){ans.add(intervals[idx]); idx++;}
