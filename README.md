@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
 ## Simulation
 |  |
