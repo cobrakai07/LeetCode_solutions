@@ -2,7 +2,8 @@ class Solution {
     public int fun(int copyContent, int curr, int num, int[][]dp){
 
         if(curr>num)return 888888;
-        if(curr==num)return 0;
+        if(curr==num)return 1;
+        
         if(dp[copyContent][curr]!=Integer.MAX_VALUE)return dp[copyContent][curr];
         int copyAndPaste=Integer.MAX_VALUE;
         int paste=Integer.MAX_VALUE;
@@ -16,6 +17,6 @@ class Solution {
         if(n==1)return 0;
         int [][]dp= new int[1001][1001];
         for(int []x: dp)Arrays.fill(x,Integer.MAX_VALUE);
-        return fun(1,1,n,dp)+1;
+        return fun(1,1,n,dp);
     }
 }
