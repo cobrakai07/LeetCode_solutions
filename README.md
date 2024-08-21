@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
+| [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2727-number-of-senior-citizens) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
+| [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 ## Simulation
 |  |
 | ------- |
