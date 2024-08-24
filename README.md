@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0947-online-election](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0947-online-election) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
