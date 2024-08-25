@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3334-apple-redistribution-into-boxes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3334-apple-redistribution-into-boxes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Two Pointers
 |  |
