@@ -2,6 +2,8 @@ class Solution {
 
     void merge(int[] arr, int left, int middle, int right){
 
+        //(important***)divide subarrays as you have divide them in sort function 
+
         int n1=middle-left+1;
         int n2=right-middle;
         int arr1[]=new int[n1];
@@ -33,7 +35,9 @@ class Solution {
         {
             int m = l + (r - l) / 2;
             sort(arr, l, m);
+            //left to middle --> one subarray
             sort(arr, m + 1, r);
+            //middle + 1 to right --> one subarray
             merge(arr, l, m, r);
         }
     }
