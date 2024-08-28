@@ -31,7 +31,7 @@ class Solution {
     
     void sort(int arr[], int l, int r)
     {
-        if (l < r) 
+        if (l < r) // dont make it equals to
         {
             int m = l + (r - l) / 2;
             sort(arr, l, m);
