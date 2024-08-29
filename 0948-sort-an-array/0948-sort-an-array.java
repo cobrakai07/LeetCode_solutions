@@ -6,6 +6,10 @@ class Solution {
     }
 
     public int partition(int[] arr, int lowIndex, int highIndex, int pivot) {
+
+        //here high index value is actually have pivot value
+        //that's why we are not taking that index in the window on which the operation will take place
+
         int leftPointer = lowIndex;
         int rightPointer = highIndex - 1;
 
@@ -24,11 +28,12 @@ class Solution {
         }
 
         swap(arr, leftPointer, highIndex); 
+        //now the pivot value has find its right place in the array at leftpointer
         return leftPointer;
     }
 
     private void quicksort(int[] array, int lowIndex, int highIndex) {
-        if (lowIndex >= highIndex) {
+        if (lowIndex >highIndex) {
             return;
         }
 
