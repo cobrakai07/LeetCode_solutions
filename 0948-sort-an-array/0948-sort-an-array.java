@@ -22,7 +22,7 @@ class Solution {
                 rightPointer--;
             }
 
-            if (leftPointer < rightPointer) {
+            if (leftPointer <= rightPointer) {
                 swap(arr, leftPointer, rightPointer);
             }
         }
