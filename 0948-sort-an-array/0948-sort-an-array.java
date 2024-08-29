@@ -1,49 +1,49 @@
 class Solution {
+    public void swap(int[] arr, int i, int j) {
+        int t = arr[i];
+        arr[i] = arr[j];
+        arr[j] = t;
+    }
 
-    void merge(int[] arr, int left, int middle, int right){
+    public int partition(int[] arr, int lowIndex, int highIndex, int pivot) {
+        int leftPointer = lowIndex;
+        int rightPointer = highIndex - 1;
 
-        //(important***)divide subarrays as you have divide them in sort function 
+        while (leftPointer <= rightPointer) {
+            while (leftPointer <= rightPointer && arr[leftPointer] <= pivot) {
+                leftPointer++;
+            }
 
-        int n1=middle-left+1;
-        int n2=right-middle;
-        int arr1[]=new int[n1];
-        int arr2[]= new int[n2];
+            while (leftPointer <= rightPointer && arr[rightPointer] >= pivot) {
+                rightPointer--;
+            }
 
-        for(int i=left,idx=0;i<=middle;i++,idx++)
-            arr1[idx]=arr[i];
-        for(int i=middle+1,idx=0;i<=right;i++,idx++)
-            arr2[idx]=arr[i];
-        
-        int k=left;
-        int p1=0,p2=0;
-        while(p1<arr1.length && p2<arr2.length){
-            if(arr1[p1]<arr2[p2])
-                arr[k++]=arr1[p1++];
-            else
-                arr[k++]=arr2[p2++];
+            if (leftPointer < rightPointer) {
+                swap(arr, leftPointer, rightPointer);
+            }
         }
 
-        while(p1<arr1.length)
-            arr[k++]=arr1[p1++];
-        while(p2<arr2.length)
-            arr[k++]=arr2[p2++];
+        swap(arr, leftPointer, highIndex); 
+        return leftPointer;
     }
-    
-    void sort(int arr[], int l, int r)
-    {
-        if (l < r) // dont make it equals to
-        {
-            int m = l + (r - l) / 2;
-            sort(arr, l, m);
-            //left to middle --> one subarray
-            sort(arr, m + 1, r);
-            //middle + 1 to right --> one subarray
-            merge(arr, l, m, r);
+
+    private void quicksort(int[] array, int lowIndex, int highIndex) {
+        if (lowIndex >= highIndex) {
+            return;
         }
+
+        int pivotIndex = new Random().nextInt(highIndex - lowIndex + 1) + lowIndex;
+        int pivot = array[pivotIndex];
+        swap(array, pivotIndex, highIndex); // Move pivot to the end
+
+        int pivotFinalIndex = partition(array, lowIndex, highIndex, pivot);
+
+        quicksort(array, lowIndex, pivotFinalIndex - 1);
+        quicksort(array, pivotFinalIndex + 1, highIndex);
     }
- 
+
     public int[] sortArray(int[] nums) {
-        sort(nums,0,nums.length-1);
+        quicksort(nums, 0, nums.length - 1);
         return nums;
     }
 }
