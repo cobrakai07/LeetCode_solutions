@@ -1,5 +1,3 @@
-import java.util.*;
-
 record Pair(int node, double distance) {}
 
 class Solution {
