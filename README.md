@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0724-find-pivot-index) |
+| [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0890-lemonade-change) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0921-spiral-matrix-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0921-spiral-matrix-iii) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
