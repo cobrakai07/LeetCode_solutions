@@ -27,7 +27,7 @@ class Solution {
     boolean hasList=false;
     public boolean fun(ListNode head, TreeNode root){
         if(head==null)return true;
-        if(head==null || root==null)return false;
+        if(root==null)return false;
         if(head.val==root.val){
             return fun(head.next,root.left) || fun(head.next, root.right);
         }else{
