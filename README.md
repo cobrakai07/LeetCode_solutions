@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2388-replace-elements-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2411-spiral-matrix-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2411-spiral-matrix-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Stack
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1905-design-authentication-manager](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1905-design-authentication-manager) |
+| [2411-spiral-matrix-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Doubly-Linked List
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2388-replace-elements-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2411-spiral-matrix-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Depth-First Search
 |  |
