@@ -1,13 +1,13 @@
 class Solution {
     public int minBitFlips(int start, int goal) {
-        int count=0;
-        for(int i=0;i<32;i++)
-        {
-            int mask=(1<<i);
-            if(((start & mask)==0 && (goal & mask)!=0) || ((start & mask)!=0 && (goal & mask)==0))
-                count++;
-
+        int xor = start ^ goal;  // XOR to find the differing bits
+        int count = 0;
+        
+        while (xor != 0) {
+            count += xor & 1;   // Add 1 to count if the LSB is 1
+            xor >>= 1;          // Shift right to check the next bit
         }
+        
         return count;
     }
 }
