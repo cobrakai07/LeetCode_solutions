@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
