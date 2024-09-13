@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
+| [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Strongly Connected Component
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1054-complement-of-base-10-integer) |
+| [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Rolling Hash
