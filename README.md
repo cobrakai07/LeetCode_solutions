@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0947-online-election](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0947-online-election) |
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1848-sum-of-unique-elements) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Strongly Connected Component
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
