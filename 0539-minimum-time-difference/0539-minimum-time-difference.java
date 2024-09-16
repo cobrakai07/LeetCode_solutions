@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int fun(String s) {
         String hour = s.substring(0, s.indexOf(':'));
