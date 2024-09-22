@@ -29,7 +29,6 @@ class Solution {
         }
 
         int s=1, e=max;
-        int min=Integer.MAX_VALUE;
 
         return bs(s,e,h,piles);
     }
