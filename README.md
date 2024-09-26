@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0650-2-keys-keyboard) |
+| [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -544,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
