@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
+| [0551-student-attendance-record-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0686-repeated-string-match) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
