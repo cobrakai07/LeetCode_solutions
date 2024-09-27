@@ -1,20 +1,24 @@
 class MyCalendar {
-    TreeSet<int[]>set;
+    Map<Integer,Integer>mp=new TreeMap<>();
     public MyCalendar() {
-        set=new TreeSet<>((a,b)->{
-            if(a[0]==b[0])
-                return a[1]-b[1];
-            return a[0]-b[0];
-        });
+        
     }
     
     public boolean book(int start, int end) {
-        for(int[]a: set)
-        {
-            if (a[0] < end && start < a[1]) 
+        mp.put(start, mp.getOrDefault(start, 0) + 1);  
+        mp.put(end, mp.getOrDefault(end, 0) - 1);      
+        int activeBooking = 0;
+
+        for (int key : mp.keySet()) {
+            activeBooking += mp.get(key);
+
+            if (activeBooking >= 2) { 
+                mp.put(start, mp.getOrDefault(start, 0) - 1);
+                mp.put(end, mp.getOrDefault(end, 0) + 1);
                 return false;
+            }
         }
-        set.add(new int[]{start,end});
+
         return true;
     }
 }
