@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1923-sentence-similarity-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1923-sentence-similarity-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
