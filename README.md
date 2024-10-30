@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1511-count-number-of-teams) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Graph
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
