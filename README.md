@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0812-rotate-string) |
 ## Number Theory
 |  |
 | ------- |
