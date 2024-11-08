@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1940-maximum-xor-for-each-query](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1940-maximum-xor-for-each-query](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Strongly Connected Component
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
