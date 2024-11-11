@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0432-all-oone-data-structure) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
