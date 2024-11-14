@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0355-design-twitter) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0725-split-linked-list-in-parts) |
