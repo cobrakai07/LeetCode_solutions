@@ -2,13 +2,10 @@ class Solution {
     public int getLargestOutlier(int[] nums) {
         int sum=0;
         int out=-1000;
-        Set<Integer>set= new HashSet<>();
-        for(int i: nums){
-            sum+=i;
-            set.add(i);
-        }
+
         Map<Integer,Set<Integer>>mp= new HashMap<>();
         for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
             if(mp.get(nums[i])==null){
                 Set<Integer>set1= new HashSet<>();
                 set1.add(i);
