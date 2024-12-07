@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0731-my-calendar-ii) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
+| [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0890-lemonade-change) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0812-rotate-string) |
+| [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
+| [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
 | [0906-walking-robot-simulation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
