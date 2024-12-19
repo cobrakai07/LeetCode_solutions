@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0731-my-calendar-ii) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
+| [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1184-car-pooling) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
+| [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
