@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1040-maximum-binary-tree-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1040-maximum-binary-tree-ii) |
