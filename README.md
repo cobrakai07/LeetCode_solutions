@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
