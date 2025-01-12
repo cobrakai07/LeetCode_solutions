@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Design
 |  |
 | ------- |
