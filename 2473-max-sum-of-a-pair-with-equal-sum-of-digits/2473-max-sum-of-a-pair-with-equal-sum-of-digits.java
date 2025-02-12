@@ -13,7 +13,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             sumArray[i]=sum(nums[i]);
         }
-        System.out.println(Arrays.toString(sumArray));
+        // System.out.println(Arrays.toString(sumArray));
         Map<Integer, PriorityQueue<Integer>>mp = new HashMap<>();
         for(int i=0;i<nums.length;i++){
             if(mp.get(sumArray[i])==null){
