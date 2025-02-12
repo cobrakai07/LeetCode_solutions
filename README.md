@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0801-is-graph-bipartite) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
@@ -771,5 +774,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
