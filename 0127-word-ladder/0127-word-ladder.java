@@ -1,47 +1,40 @@
-class Pair{
-    String first;
-    int second;
-    Pair(String first,int second){
-        this.first=first;
-        this.second=second;
-    }
+record Pair(String str, int len) {
 }
+
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Queue<Pair> q=new ArrayDeque<>();
-        //initially adding beginword and sequence length 1 into queue
-        q.add(new Pair(beginWord,1));
-        //adding all words in HashSet 
-        HashSet<String> set=new HashSet<>();
-        for(int i=0;i<wordList.size();i++){
-            set.add(wordList.get(i));
+        Set<String> set = new HashSet<>();
+        Set<String> vis = new HashSet<>();
+        for (String s : wordList) {
+            set.add(s);
         }
-        set.remove(beginWord);
-        while(!q.isEmpty()){
-            String rem=q.peek().first;
-            int steps=q.peek().second;
-            q.remove();
-            if(rem.equals(endWord))return steps;
-            
-            //TC:N * rem.length * 26 *  0(1){hashset}
-            //SC: 0(N) hashSet
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.len() - b.len());
+        pq.offer(new Pair(beginWord, 1));
 
-            //for every character doing a change,so traverse to all the characters
-            for(int i=0;i<rem.length();i++){
-                for(char ch='a';ch<='z';ch++){
-                    char replacedcharArray[]=rem.toCharArray();
-                    replacedcharArray[i]=ch;
-                    String replacedword=new String(replacedcharArray);
-                    //exist in the set?
-                    if(set.contains(replacedword)){
-                        set.remove(replacedword);
-                        q.add(new Pair(replacedword,steps+1));
+        while (!pq.isEmpty()) {
+
+            Pair pair = pq.poll();
+            String s = pair.str();
+
+            if (s.equals(endWord))
+                return pair.len();
+            StringBuilder sb = new StringBuilder(s);
+            for (int i = 0; i < s.length(); i++) {
+                for (char c = 'a'; c <= 'z'; c++) {
+
+                    char t = sb.charAt(i);
+                    sb.setCharAt(i, c);
+                    if (set.contains(sb.toString()) && !vis.contains(sb.toString())) {
+                        vis.add(sb.toString());
+                        pq.offer(new Pair(sb.toString(), pair.len() + 1));
                     }
+
+                    sb.setCharAt(i, t);
                 }
+
             }
 
         }
         return 0;
-
     }
 }
