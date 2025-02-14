@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
 | [0947-online-election](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0947-online-election) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1905-design-authentication-manager](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1905-design-authentication-manager) |
 ## Backtracking
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
