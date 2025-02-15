@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
