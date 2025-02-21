@@ -29,9 +29,9 @@ class Solution {
         int pre1=1, pre2=0;
 
         for(int i=0; i<=n ;i++){
-            int t=pre2;
+            // int t=pre2;
             pre2=pre1+pre2;
-            pre1=t;
+            pre1=pre2-pre1;
         } 
         return pre2;
     }
