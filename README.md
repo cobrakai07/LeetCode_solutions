@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
 | [0947-online-election](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0947-online-election) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1905-design-authentication-manager](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1905-design-authentication-manager) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1040-maximum-binary-tree-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -724,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1040-maximum-binary-tree-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
