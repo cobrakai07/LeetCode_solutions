@@ -1,26 +1,23 @@
 class Solution {
     public int[] applyOperations(int[] nums) {
-        int n = nums.length;
-        for(int i=0; i<n-1 ;i++){
-            if(nums[i] == nums[i+1]){
-                nums[i]=nums[i]*2;
+        for(int i=0;i<nums.length-1;i++){
+            if(nums[i]==nums[i+1]) {
+                nums[i]*=2;
                 nums[i+1]=0;
             }
         }
-
-        int s1=0, s2=0;
-
-        List<Integer>list= new ArrayList<>();
-        for(int i:nums){
-            if(i!=0)list.add(i);
-        }
-
-        int it=0;
-        for(;it<list.size();it++)nums[it]=list.get(it);
-        while(it<n){
-            nums[it++]=0;
-        }
-
+        moveZeroes(nums);
         return nums;
+    }
+    public void moveZeroes(int[] nums){
+        int i=0;
+        for(int j=0;j<nums.length;j++){
+            if(nums[j]!=0){
+                nums[i++]=nums[j];
+            }
+        }
+        for(int j=i;j<nums.length;j++){
+            nums[j]=0;
+        }
     }
 }
