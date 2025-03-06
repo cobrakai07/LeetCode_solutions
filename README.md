@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3227-find-missing-and-repeated-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3227-find-missing-and-repeated-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
