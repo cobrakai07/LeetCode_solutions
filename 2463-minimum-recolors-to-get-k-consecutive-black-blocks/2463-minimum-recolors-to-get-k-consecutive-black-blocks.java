@@ -1,10 +1,7 @@
 class Solution {
     public int minimumRecolors(String blocks, int k) {
 
-        if(k==1){
-            if(blocks.indexOf('B')==-1)return 1;
-            else return 0;
-        }
+        
 
         int indexOne=0;
         int indexTwo=0;
