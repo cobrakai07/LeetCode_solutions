@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3483-alternating-groups-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-alternating-groups-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Breadth-First Search
 |  |
