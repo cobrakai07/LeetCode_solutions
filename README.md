@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2690-house-robber-iv) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
