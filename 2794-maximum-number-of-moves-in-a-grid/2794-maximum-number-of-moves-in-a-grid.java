@@ -2,7 +2,9 @@ class Solution {
     public int fun(int i, int j, int[][]dp, int[][]g){
 
         if(dp[i][j]!=-1)return dp[i][j];
+
         int u=0,d=0,l=0;
+        
         if(i-1>=0 && j+1<dp[0].length && g[i][j]<g[i-1][j+1]){
             u=1+fun(i-1,j+1,dp,g);
         }
