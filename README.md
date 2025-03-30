@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0686-repeated-string-match) |
+| [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
+| [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
 | [0906-walking-robot-simulation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0906-walking-robot-simulation) |
