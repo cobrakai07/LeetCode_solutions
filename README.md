@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 ## Ordered Set
 |  |
 | ------- |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 ## Trie
 |  |
 | ------- |
@@ -838,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 ## Queue
 |  |
 | ------- |
