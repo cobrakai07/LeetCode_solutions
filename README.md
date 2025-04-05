@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0947-online-election](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0947-online-election) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1040-maximum-binary-tree-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1040-maximum-binary-tree-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1040-maximum-binary-tree-ii) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
