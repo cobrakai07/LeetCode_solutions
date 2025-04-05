@@ -53,7 +53,6 @@ class Solution {
                if(dfs(t,map)==map.size())return t;
             }
         }
-        return root;
-
+        return null;
     }
 }
