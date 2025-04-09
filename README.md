@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0731-my-calendar-ii) |
+| [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0921-spiral-matrix-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0967-minimum-falling-path-sum) |
