@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
