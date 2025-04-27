@@ -1,36 +1,36 @@
 class Solution {
-    public int cherryPickup(int[][] grid) {
-        int n = grid.length;
-        Integer[][][] dp = new Integer[n][n][n];
-        return Math.max(0, dfs(0, 0, 0, grid, dp));
-    }
+    public int fun(int i1, int j1, int i2, int j2, int[][] grid, Integer[][][][] dp) {
+        int j2New = i1 + j1 - i2; // because (i1+j1) == (i2+j2) always (same number of steps)
 
-    // r1, c1 = person1's position
-    // r2 = person2's row, c2 = derived
-    private int dfs(int r1, int c1, int r2, int[][] grid, Integer[][][] dp) {
-        int c2 = r1 + c1 - r2; // because r1 + c1 == r2 + c2 at the same time
-        int n = grid.length;
-
-        if (r1 >= n || c1 >= n || r2 >= n || c2 >= n ||
-            grid[r1][c1] == -1 || grid[r2][c2] == -1) {
+        if (i1 >= grid.length || j1 >= grid[0].length || i2 >= grid.length || j2New >= grid[0].length ||
+            grid[i1][j1] == -1 || grid[i2][j2New] == -1)
             return Integer.MIN_VALUE;
-        }
-
-        if (r1 == n - 1 && c1 == n - 1) return grid[r1][c1];
-
-        if (dp[r1][c1][r2] != null) return dp[r1][c1][r2];
-
-        int cherries = grid[r1][c1];
-        if (r1 != r2 || c1 != c2) {
-            cherries += grid[r2][c2];
-        }
-
-        int max = Math.max(
-            Math.max(dfs(r1 + 1, c1, r2 + 1, grid, dp), dfs(r1, c1 + 1, r2, grid, dp)),
-            Math.max(dfs(r1 + 1, c1, r2, grid, dp), dfs(r1, c1 + 1, r2 + 1, grid, dp))
+        
+        if (i1 == grid.length - 1 && j1 == grid[0].length - 1)
+            return grid[i1][j1];
+        
+        if (dp[i1][j1][i2][j2New] != null)
+            return dp[i1][j1][i2][j2New];
+        
+        int ans = 0;
+        if (i1 == i2 && j1 == j2New)
+            ans += grid[i1][j1];
+        else
+            ans += grid[i1][j1] + grid[i2][j2New];
+        
+        int temp = Math.max(
+            Math.max(fun(i1 + 1, j1, i2 + 1, j2, grid, dp), fun(i1, j1 + 1, i2, j2 + 1, grid, dp)),
+            Math.max(fun(i1 + 1, j1, i2, j2 + 1, grid, dp), fun(i1, j1 + 1, i2 + 1, j2, grid, dp))
         );
-
-        dp[r1][c1][r2] = cherries + max;
-        return dp[r1][c1][r2];
+        
+        ans += temp;
+        return dp[i1][j1][i2][j2New] = ans;
+    }
+    
+    public int cherryPickup(int[][] grid) {
+        int n = grid.length, m = grid[0].length;
+        Integer[][][][] dp = new Integer[n][m][n][m];
+        int result = fun(0, 0, 0, 0, grid, dp);
+        return Math.max(result, 0);
     }
 }
