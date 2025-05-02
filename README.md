@@ -878,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
