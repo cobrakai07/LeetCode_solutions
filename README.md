@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0213-house-robber-ii) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1054-complement-of-base-10-integer) |
