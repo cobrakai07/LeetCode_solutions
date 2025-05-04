@@ -1,21 +1,18 @@
 class Solution {
-    private int fun(int idx,int[]nums,int currSum,int target)
-    {
-        if(idx==nums.length)
-        {
-            if(target==currSum)
-                return 1;
-            else
-                return 0;
+    public int fun(int i, int t, int s, int []arr){
+        if(i==arr.length){
+            if(t==s)return 1;
+            else return 0;
         }
-        int m=0,n=0;
-        nums[idx]=-nums[idx];
-        m+=fun(idx+1,nums,currSum+nums[idx],target);
-        nums[idx]=-nums[idx];
-        n+=fun(idx+1,nums,currSum+nums[idx],target);
-        return m+n;
+
+        int pos=fun(i+1, t-arr[i], s,arr);
+        int neg=fun(i+1, t+arr[i], s,arr);
+
+        return pos+neg;
+
+
     }
     public int findTargetSumWays(int[] nums, int target) {
-       return fun(0,nums,0,target);
+        return fun(0,0,target,nums);
     }
 }
