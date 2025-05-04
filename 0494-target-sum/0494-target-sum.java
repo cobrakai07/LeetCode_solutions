@@ -1,18 +1,17 @@
 class Solution {
-    public int fun(int i, int t, int s, int []arr){
-        if(i==arr.length){
-            if(t==s)return 1;
-            else return 0;
+    int fun(int i, int t, int []nums){
+        if(i==nums.length){
+           return t==0? 1: 0;
         }
+        int pick= fun(i+1,t-nums[i],nums);
+        int npick= fun(i+1,t,nums);
 
-        int pos=fun(i+1, t-arr[i], s,arr);
-        int neg=fun(i+1, t+arr[i], s,arr);
-
-        return pos+neg;
-
-
+        return pick+npick;
     }
     public int findTargetSumWays(int[] nums, int target) {
-        return fun(0,0,target,nums);
+        int s=0;
+        for(int i: nums)s+=i;
+        if(s-target<0 || ((s-target)&1)==1)return 0;
+        return fun(0,(s-target)/2,nums);
     }
 }
