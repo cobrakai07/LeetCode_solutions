@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0070-climbing-stairs) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
