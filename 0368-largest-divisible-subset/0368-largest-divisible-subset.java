@@ -1,26 +1,37 @@
 class Solution {
     public List<Integer> largestDivisibleSubset(int[] nums) {
         Arrays.sort(nums);
-        Map<String, List<Integer>> memo = new HashMap<>();
-        return dfs(0, -1, nums, memo);
-    }
+        int n = nums.length;
 
-    private List<Integer> dfs(int i, int prevIdx, int[] nums, Map<String, List<Integer>> memo) {
-        if (i == nums.length) return new ArrayList<>();
+        int[] dp = new int[n];      // dp[i] = size of largest subset ending at nums[i]
+        int[] prev = new int[n];    // prev[i] = previous index in the subset
+        Arrays.fill(dp, 1);
+        Arrays.fill(prev, -1);
 
-        String key = i + "," + prevIdx;
-        if (memo.containsKey(key)) return memo.get(key);
+        int maxIdx = 0;
 
-        List<Integer> notPick = dfs(i + 1, prevIdx, nums, memo);
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < i; j++) {
+                // match your fun(): nums[i] divides nums[j]
+                if (nums[i] % nums[j] == 0 && dp[j] + 1 > dp[i]) {
+                    dp[i] = dp[j] + 1;
+                    prev[i] = j;
+                }
+            }
 
-        List<Integer> pick = new ArrayList<>();
-        if (prevIdx == -1 || nums[i] % nums[prevIdx] == 0) {
-            pick = new ArrayList<>(dfs(i + 1, i, nums, memo));
-            pick.add(0, nums[i]);
+            if (dp[i] > dp[maxIdx]) {
+                maxIdx = i;
+            }
         }
 
-        List<Integer> result = pick.size() > notPick.size() ? pick : notPick;
-        memo.put(key, result);
-        return result;
+        // Reconstruct result
+        List<Integer> res = new ArrayList<>();
+        while (maxIdx != -1) {
+            res.add(nums[maxIdx]);
+            maxIdx = prev[maxIdx];
+        }
+
+        Collections.reverse(res);
+        return res;
     }
 }
