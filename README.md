@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
