@@ -1,13 +1,13 @@
 class Solution {
     public double myPow(double x, int n) {
         double ans = 1;
-        double oriNum = n;
+
         if(x == 0 || x == 1) return x;
 
         if(n < 0){
             x = 1/x;
-            n = -(n+1);    //for Integer.MIN_VALUE
-            ans = ans * x;
+            n = -(n+1);    //for Integer.MIN_VALUE // making it positive will lead to overflow
+            ans = ans * x; // adjusting the one lost value in case of Integer.MIN_VALUE;
         }
 
      
