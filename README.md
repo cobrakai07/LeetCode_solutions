@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3194-find-words-containing-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2757-count-of-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2757-count-of-integers) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3194-find-words-containing-character](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
