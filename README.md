@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 ## Shortest Path
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## String
 |  |
 | ------- |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3817-maximum-containers-on-a-ship](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3817-maximum-containers-on-a-ship) |
 ## Sliding Window
 |  |
@@ -984,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Brainteaser
 |  |
 | ------- |
