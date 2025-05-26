@@ -4,12 +4,10 @@ class Solution {
     static final int MAX = 10000;
     static final boolean[] isPrime = sieve();
 
-    // Generate prime numbers up to MAX
     static boolean[] sieve() {
         boolean[] prime = new boolean[MAX];
         Arrays.fill(prime, true);
         prime[0] = prime[1] = false;
-
         for (int p = 2; p * p < MAX; p++) {
             if (prime[p]) {
                 for (int i = p * p; i < MAX; i += p) {
@@ -33,38 +31,35 @@ class Solution {
         while (!pq.isEmpty()) {
             int[] curr = pq.poll();
             int num = curr[0], cost = curr[1];
+            char[] digits = String.valueOf(num).toCharArray();
 
-            for (int pos = 1; pos <= numLength(num); pos++) {
-                int digitPlace = (int) Math.pow(10, pos - 1);
+            for (int i = 0; i < digits.length; i++) {
+                char original = digits[i];
 
                 // Increment digit
-                if ((num / digitPlace) % 10 < 9) {
-                    int next = num + digitPlace;
+                if (digits[i] < '9') {
+                    digits[i]++;
+                    int next = Integer.parseInt(new String(digits));
                     if (!isPrime[next] && dist[next] > cost + next) {
                         dist[next] = cost + next;
                         pq.offer(new int[]{next, dist[next]});
                     }
+                    digits[i] = original; // revert
                 }
 
                 // Decrement digit
-                if ((num / digitPlace) % 10 > 0 && num != 1) {
-                    int next = num - digitPlace;
+                if (digits[i] > '0') {
+                    digits[i]--;
+                    int next = Integer.parseInt(new String(digits));
                     if (!isPrime[next] && dist[next] > cost + next) {
                         dist[next] = cost + next;
                         pq.offer(new int[]{next, dist[next]});
                     }
+                    digits[i] = original; // revert
                 }
             }
         }
 
         return dist[target] == Integer.MAX_VALUE ? -1 : dist[target] + start;
-    }
-
-    // Helper to count digits
-    private int numLength(int n) {
-        if (n >= 1000) return 4;
-        if (n >= 100) return 3;
-        if (n >= 10) return 2;
-        return 1;
     }
 }
