@@ -1,47 +1,41 @@
 class MedianFinder {
-
-    PriorityQueue<Integer> maxHeap;
-    PriorityQueue<Integer> minHeap;
+    TreeSet<Integer> maxHeap;
+    TreeSet<Integer> minHeap;
+    List<Integer> nums;
 
     public MedianFinder() {
-        maxHeap = new PriorityQueue<>((a, b) -> b - a);
-        minHeap = new PriorityQueue<>();
+        nums = new ArrayList<>();
+
+        maxHeap = new TreeSet<>((a, b) -> {
+            if (!nums.get(a).equals(nums.get(b))) 
+                return Integer.compare(nums.get(b), nums.get(a)); // Descending
+            return Integer.compare(a, b); // Tie breaker
+        });
+
+        minHeap = new TreeSet<>((a, b) -> {
+            if (!nums.get(a).equals(nums.get(b))) 
+                return Integer.compare(nums.get(a), nums.get(b)); // Ascending
+            return Integer.compare(a, b);
+        });
     }
-    
+
     public void addNum(int num) {
-        if (maxHeap.isEmpty()) {
-            maxHeap.offer(num);
-        } else {
-            if (num > maxHeap.peek()) {
-                minHeap.offer(num);
-            } else {
-                maxHeap.offer(num);
-            }
-        }
+        nums.add(num);
+        int i = nums.size() - 1;
 
-        if (maxHeap.size() - minHeap.size() > 1) {
-            minHeap.offer(maxHeap.poll());
-        } else if (minHeap.size() - maxHeap.size() > 1) {
-            maxHeap.offer(minHeap.poll());
+        minHeap.add(i);
+        maxHeap.add(minHeap.pollFirst());
+
+        // Balance the heaps
+        if (maxHeap.size() > minHeap.size()) {
+            minHeap.add(maxHeap.pollFirst());
         }
     }
-    
+
     public double findMedian() {
-        if (maxHeap.size() == minHeap.size()) {
-            return (maxHeap.peek() + minHeap.peek()) / 2.0;
+        if ((nums.size() & 1) == 1) {
+            return nums.get(minHeap.first());
         }
-
-        if (maxHeap.size() > minHeap.size()) {
-            return maxHeap.peek();
-        }
-
-        return minHeap.peek();
+        return (nums.get(minHeap.first()) + nums.get(maxHeap.first())) / 2.0;
     }
 }
-
-/**
- * Your MedianFinder object will be instantiated and called as such:
- * MedianFinder obj = new MedianFinder();
- * obj.addNum(num);
- * double param_2 = obj.findMedian();
- */
