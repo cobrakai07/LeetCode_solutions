@@ -15,7 +15,7 @@ class Solution {
                 }
             }
         }
-        System.out.println(Arrays.toString(lps));
+        // System.out.println(Arrays.toString(lps));
         int max = 0;
         for(int it: lps)max = Math.max(max,it);
         
