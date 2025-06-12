@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
+| [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1036-rotting-oranges) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0494-target-sum) |
+| [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [1160-letter-tile-possibilities](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -788,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
+| [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1077,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 ## Combinatorics
 |  |
 | ------- |
