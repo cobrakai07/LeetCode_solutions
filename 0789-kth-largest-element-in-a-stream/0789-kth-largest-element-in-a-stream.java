@@ -1,19 +1,24 @@
 class KthLargest {
-    ArrayList <Integer> list= new ArrayList<>();
-    int idx=0;
+    PriorityQueue<Integer>pq;
+    int k;
     public KthLargest(int k, int[] nums) {
-     //Arrays.sort(nums);
-     for(int x: nums)
-     {
-         list.add(x);
-     }
-     idx=k;
-
+        pq= new PriorityQueue<>();
+        for(int i: nums){
+            pq.offer(i);
+            if(pq.size()>k)pq.poll();
+        }
+        this.k=k;
     }
     
     public int add(int val) {
-        list.add(val);
-        Collections.sort(list);
-        return list.get(list.size()-idx);
+        pq.offer(val);
+        if(pq.size()>k)pq.poll();
+        return pq.peek();
     }
 }
+
+/**
+ * Your KthLargest object will be instantiated and called as such:
+ * KthLargest obj = new KthLargest(k, nums);
+ * int param_1 = obj.add(val);
+ */
