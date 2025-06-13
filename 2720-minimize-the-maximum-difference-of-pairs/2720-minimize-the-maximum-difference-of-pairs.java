@@ -21,11 +21,8 @@ class Solution {
         int min =Integer.MAX_VALUE;
         while(s<=e){
             int m = s+(e-s)/2;
-            // System.out.println(m+" [[");
             if(validDiff(m,p,nums)){
-
-                // System.out.println(m);
-                min=Math.min(min,m);
+                min=m;
                 e=m-1;
             }else{
                 s=m+1;
