@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0480-sliding-window-median) |
+| [0594-longest-harmonious-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2478-longest-nice-subarray) |
