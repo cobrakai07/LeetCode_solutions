@@ -1,55 +1,50 @@
+class Dsu{
+    int[]parent;
+    int[]size;
+    Dsu(int sizeOfDsu){
+        parent = new int[sizeOfDsu];
+        size = new int[sizeOfDsu];
+
+        for(int i=0;i<sizeOfDsu;i++){
+            parent[i]=i;
+            size[i]=1;
+        }
+    }
+
+    public int findUltimateParent(int node){
+        if(parent[node]==node)return node;
+        return parent[node]= findUltimateParent(parent[node]);
+    }
+
+    public void unionBySize(int u, int v){
+        int ulp_u= findUltimateParent(u);
+        int ulp_v= findUltimateParent(v);
+        
+        if(ulp_v == ulp_u) return;
+        if(size[ulp_v] < size[ulp_u]){
+            parent[ulp_v] = ulp_u;
+            size[ulp_u] += size[ulp_v];
+        }else{
+            parent[ulp_u] = ulp_v;
+            size[ulp_v] += size[ulp_u];
+        }
+    }
+}
 class Solution {
-  public void dfs(int idx,ArrayList<ArrayList<Integer>>adjList,int[]visited)
-  {
-    if(visited[idx]==1)return;
-
-    visited[idx] = 1;
-
-        for(int i=0;i<adjList.get(idx).size();i++)
-        {
-          if(visited[adjList.get(idx).get(i)]==0)
-          {
-            dfs( adjList.get(idx).get(i) , adjList, visited);
-          }
-        }
-
-  }
-
     public int findCircleNum(int[][] isConnected) {
-
-        ArrayList<ArrayList<Integer>>adjList=new ArrayList<>();
-        for(int i=0;i<isConnected.length;i++)
-        {
-          ArrayList<Integer>temp=new ArrayList<>();
-          adjList.add(temp);
-        }
- 
-        for(int i=0;i<isConnected.length;i++)
-        {
-          
-          for(int j=0;j<isConnected.length;j++)
-          {
-            if(i==j)continue;
-            if(isConnected[i][j]==1)
-            {
-              ArrayList<Integer>temp=adjList.get(i);
-              temp.add(j);
+        Dsu dsu = new Dsu(isConnected.length);
+        for(int u=0; u < isConnected.length; u++){
+            for(int v=0; v< isConnected[0].length; v++){
+                if(isConnected[u][v]==1){
+                    dsu.unionBySize(u,v);
+                }
             }
-          }
         }
 
-        int []visited=new int[isConnected.length];
-        int ans=0;
-        for(int i=0;i<visited.length;i++)
-        {
-          if(visited[i]==0)
-          {
-             dfs(i,adjList,visited);
-             ans++;
-          }
+        int ans = 0;
+        for(int i=0;i<dsu.parent.length;i++){
+            if(dsu.parent[i]==i)ans++;
         }
-        // System.out.println(adjList);
         return ans;
-
     }
 }
