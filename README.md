@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0731-my-calendar-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1129-longest-string-chain) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
+| [0721-accounts-merge](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
@@ -903,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
+| [0721-accounts-merge](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0820-find-eventual-safe-states) |
@@ -1056,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1663-detect-cycles-in-2d-grid) |
