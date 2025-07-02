@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2757-count-of-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2757-count-of-integers) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Graph
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Strongly Connected Component
 |  |
 | ------- |
