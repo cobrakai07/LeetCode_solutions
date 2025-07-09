@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3438-peaks-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3438-peaks-in-array) |
 | [3483-alternating-groups-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1511-count-number-of-teams](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3438-peaks-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3438-peaks-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0732-my-calendar-iii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3438-peaks-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3438-peaks-in-array) |
 ## Enumeration
 |  |
 | ------- |
