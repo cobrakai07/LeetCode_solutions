@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1115,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Queue
 |  |
 | ------- |
