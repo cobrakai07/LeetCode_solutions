@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3396-valid-word](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
