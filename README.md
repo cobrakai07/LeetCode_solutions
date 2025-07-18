@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2554-minimum-total-distance-traveled](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2757-count-of-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2757-count-of-integers) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
