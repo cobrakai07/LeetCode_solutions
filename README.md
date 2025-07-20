@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -1116,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1508-longest-happy-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1508-longest-happy-prefix) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
