@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2107-find-unique-binary-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2145-grid-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sorting
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1881-closest-subsequence-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2479-meeting-rooms-iii) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2107-find-unique-binary-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1234,4 +1239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
