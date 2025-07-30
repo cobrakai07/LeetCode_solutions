@@ -1,32 +1,19 @@
-record Pair(int cap, int till){
-
-}
 class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
+        int[] cap = new int[1001]; // locations 0 to 1000
 
-        Arrays.sort(trips, (a,b)-> {
-            if(a[1]==b[1])return a[2]-b[2];
-            return a[1]-b[1];
-        });
+        for (int[] a : trips) {
+            int c = a[0], x = a[1], y = a[2];
+            cap[x] += c;
+            cap[y] -= c;
+        }
 
-        PriorityQueue<Pair>pq= new PriorityQueue<>((a,b)->a.till()-b.till());
-
-        int cc=trips[0][0];
-        if(cc>capacity)return false;
-        pq.offer(new Pair(trips[0][0], trips[0][2]));
-
-        for(int i=1; i<trips.length; i++){
-                // System.out.println(pq);
-                while(!pq.isEmpty() && pq.peek().till()<= trips[i][1])
-                    cc=cc-pq.poll().cap();
-                
-                pq.offer(new Pair(trips[i][0], trips[i][2]));
-                if(cc+trips[i][0]>capacity)return false;
-                else cc+=trips[i][0];
-                
+        int curr = 0;
+        for (int i = 0; i < cap.length; i++) {
+            curr += cap[i];
+            if (curr > capacity) return false;
         }
 
         return true;
-        
     }
 }
