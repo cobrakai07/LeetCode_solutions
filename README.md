@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0075-sort-colors) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0682-baseball-game) |
