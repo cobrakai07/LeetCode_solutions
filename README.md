@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3750-closest-equal-element-queries) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Divide and Conquer
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Strongly Connected Component
 |  |
 | ------- |
