@@ -1,37 +1,19 @@
-class Solution {
-    public List<Integer> fun(List<Integer> list)
-    {
-        List<Integer>temp=new ArrayList<>();
-        temp.add(1);
-        for(int i=0,j=1;i<list.size()&&j<list.size();i++,j++)
-        {
-            temp.add(list.get(i)+list.get(j));
+public class Solution {
+    int nCr(int n, int r) {
+        if (r > n - r) r = n - r; // C(n, r) == C(n, n - r)
+        long res = 1;
+        for (int i = 0; i < r; i++) {
+            res = res * (n - i);
+            res = res / (i + 1);
         }
-        temp.add(1);
-        return temp;
+        return (int) res;
     }
+
     public List<Integer> getRow(int rowIndex) {
-         List<List<Integer>>ans=new ArrayList<>();
-
-        List<Integer>temp1=new ArrayList<>();
-        temp1.add(1);
-        ans.add(temp1);
-        if(rowIndex==0)return temp1;
-
-        List<Integer>temp2=new ArrayList<>();
-        temp2.add(1);
-        temp2.add(1);
-        ans.add(temp2);
-        if(rowIndex==1)return temp2;
-
-         int idx = rowIndex;
-        while((rowIndex-1)!=0)
-        {
-            List<Integer>curr=fun(ans.get(ans.size()-1));
-            ans.add(curr);
-            rowIndex--;
+        List<Integer> ans = new ArrayList<>();
+        for (int i = 0; i <= rowIndex; i++) {
+            ans.add(nCr(rowIndex, i));
         }
-
-        return ans.get(idx);
+        return ans;
     }
 }
