@@ -1,6 +1,3 @@
-import java.util.ArrayDeque;
-import java.util.Arrays;
-
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
