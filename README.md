@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0283-move-zeroes) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0355-design-twitter) |
 | [0480-sliding-window-median](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0480-sliding-window-median) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1197,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
 ## String Matching
 |  |
@@ -1282,4 +1286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
