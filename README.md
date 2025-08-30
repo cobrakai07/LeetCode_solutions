@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2294-minimum-time-to-complete-trips](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2294-minimum-time-to-complete-trips](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2690-house-robber-iv) |
