@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0056-merge-intervals) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
