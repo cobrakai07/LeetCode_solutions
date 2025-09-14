@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1006-vowel-spellchecker](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1006-vowel-spellchecker](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1129-longest-string-chain](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1160-letter-tile-possibilities) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0947-online-election](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0947-online-election) |
+| [1006-vowel-spellchecker](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1129-longest-string-chain](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1160-letter-tile-possibilities) |
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
