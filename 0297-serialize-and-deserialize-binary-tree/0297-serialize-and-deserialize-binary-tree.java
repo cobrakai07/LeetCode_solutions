@@ -51,7 +51,7 @@ public class Codec {
             index++;
 
             // right child
-            if (index < arr.length && !arr[index].equals("null")) {
+            if (!arr[index].equals("null")) {
                 TreeNode right = new TreeNode(Integer.valueOf(arr[index]));
                 node.right = right;
                 q.offer(right);
