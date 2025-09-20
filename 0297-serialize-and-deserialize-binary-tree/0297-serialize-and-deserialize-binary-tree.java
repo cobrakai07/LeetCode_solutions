@@ -39,7 +39,7 @@ public class Codec {
         q.offer(root);
         int index = 1;
 
-        while (!q.isEmpty() && index < arr.length) {
+        while (!q.isEmpty()) {
             TreeNode node = q.poll();
 
             // left child
