@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2023-design-movie-rental-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2107-find-unique-binary-string) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1905-design-authentication-manager](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1905-design-authentication-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2023-design-movie-rental-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -993,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0732-my-calendar-iii) |
+| [2023-design-movie-rental-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
