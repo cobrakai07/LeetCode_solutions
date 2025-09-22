@@ -4,12 +4,15 @@ class Solution {
         for(int i: nums)
             hash[i]++;
         int max = -1;
-        for(int i=1;i<101;i++){
-            max= Math.max(max,hash[i]);
-        }
         int ans =0;
         for(int i=1;i<101;i++){
-           if(hash[i]==max)ans=ans+hash[i];
+            if(max<hash[i]){
+                max=hash[i];
+                ans=hash[i];
+            }else if(max==hash[i]){
+                ans=ans+hash[i];
+            }
+          
         }
         return ans;
     }
