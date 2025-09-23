@@ -10,7 +10,7 @@ class Solution {
             int val1 = (i < n1) ? Integer.parseInt(v1[i]) : 0;
             int val2 = (i < n2) ? Integer.parseInt(v2[i]) : 0;
 
-            System.out.println(val1 + "," + val2);
+            
 
             if (val1 < val2) return -1;
             if (val1 > val2) return 1;
