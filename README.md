@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0268-missing-number) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0268-missing-number) |
