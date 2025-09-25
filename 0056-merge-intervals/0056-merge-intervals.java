@@ -14,7 +14,7 @@ class Solution {
         for(int i=1; i<arr.length; i++){
             int[]in=arr[i];
             if( in[0] <= end){
-                end = Math.max(end,in[1]);
+                end = Math.max(end,in[1]); // this line is imp``
             }else{
                 ans.add(new int[]{start,end});
                 end = in[1];
