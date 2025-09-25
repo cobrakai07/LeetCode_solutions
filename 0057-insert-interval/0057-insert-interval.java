@@ -1,57 +1,32 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        int s=0,e=intervals.length-1;
-        while(s!=intervals.length){
-            int arr[]=intervals[s];
-            if(arr[0]>=newInterval[0] || arr[1]>=newInterval[0] )break;
-            s++;
+        int[][]arr =new int[intervals.length+1][2];
+        for(int i=0; i<intervals.length; i++){
+            arr[i]=intervals[i];
         }
-        while(e!=-1){
-            int arr[]=intervals[e];
-            if(arr[1]<=newInterval[1] || arr[0]<=newInterval[1] )break;
-            e--;
-        }
+        arr[arr.length-1]=newInterval;
+        Arrays.sort(arr,(a,b)->{
+            if(a[0]==b[0])return Integer.compare(a[1],b[1]);
+            return Integer.compare(a[0],b[0]);
+        });
 
         List<int[]>ans = new ArrayList<>();
-
-        if(s<=e && s<intervals.length && e!=-1){
-            int idx=0;
-            while(s!=idx){ans.add(intervals[idx]); idx++;}
-            
-            int[]sarr=intervals[s];
-            int[]earr=intervals[e];
-            int start= Math.min( Math.min(newInterval[0],sarr[0]), Math.min(newInterval[0],sarr[1]));
-            int end= Math.max( Math.max(newInterval[1],earr[0]), Math.max(newInterval[1],earr[1]));
-            ans.add(new int[]{start,end});
-            idx=e+1;
-            while(idx<intervals.length){ans.add(intervals[idx]); idx++;}
-            ans.forEach(ee->System.out.print(ee[0]+","+ee[1]+" "));
-            System.out.println("s<e");
+        int end = arr[0][1];
+        int start = arr[0][0];
+        for(int i=1; i<arr.length; i++){
+            int[]in=arr[i];
+            // System.out.println(Arrays.toString(in));
+            if( in[0] <= end){
+                end = Math.max(end,in[1]);
+            }else{
+                ans.add(new int[]{start,end});
+                end = in[1];
+                start = in[0];
+            }
         }
-        // else if(s==e && s<intervals.length && e!=-1){
-        //     int idx=0;
-        //     while(s!=idx){ans.add(intervals[idx]); idx++;}
-            
-        //     int[]sarr=intervals[s];
-        //     int[]earr=intervals[e];
-        //     int start= Math.min( Math.min(newInterval[0],sarr[0]), Math.min(newInterval[0],sarr[1]));
-        //     int end= Math.max( Math.max(newInterval[1],earr[0]), Math.max(newInterval[1],earr[1]));
-        //     ans.add(new int[]{start,end});
-        //     idx=e+1;
-        //     while(idx<intervals.length){ans.add(intervals[idx]); idx++;}
-        //     ans.forEach(ee->System.out.print(ee[0]+","+ee[1]+" "));
-        //     System.out.println("equals");
-        // }
-         else{
-            int idx=0;
-            while(idx<intervals.length){ans.add(intervals[idx]); idx++;}
-            int i=Math.max(s,e);
-            ans.add(i,newInterval);
-            ans.forEach(ee->System.out.print(ee[0]+","+ee[1]+" "));
-            System.out.println("ajeeb");
-        }
-        System.out.println(s+","+e);
+        // System.out.println("===");
+        ans.add(new int[]{start,end});
+        // ans.forEach((a)->System.out.println(Arrays.toString(a)));
         return ans.toArray(new int[ans.size()][]);
-        // return intervals;
     }
 }
