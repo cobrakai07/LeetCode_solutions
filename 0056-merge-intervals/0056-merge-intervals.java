@@ -1,27 +1,36 @@
+import java.util.*;
+
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a,b)->{
-            if(a[0]==b[0])return a[1]-b[1];
-            else return a[0]-b[0];
+
+        List<int[]> events = new ArrayList<>();
+        for (int[] in : intervals) {
+            events.add(new int[]{in[0], 1});   // start
+            events.add(new int[]{in[1], -1});  // end
+        }
+
+        // Sort by position; if same position, process start (+1) BEFORE end (-1)
+        Collections.sort(events, (a, b) -> {
+            if (a[0] != b[0]) return a[0] - b[0];
+            return b[1] - a[1]; // start (1) comes before end (-1)
         });
-        List<int[]>ans = new ArrayList<>();
-        int pre=intervals[0][1];
-        ans.add(intervals[0]);
-        for(int i=1;i<intervals.length;i++){
-            if(pre<intervals[i][0]){
-                ans.add(intervals[i]);
-                pre=intervals[i][1];
-            }else{
-                int [] arr= ans.get(ans.size()-1);
-                int start=Math.min(arr[0],intervals[i][0]);
-                int end=Math.max(arr[1],intervals[i][1]);
-                arr[0]=start;
-                arr[1]=end;
-                pre=end;
+
+        List<int[]> res = new ArrayList<>();
+        int active = 0;
+        int start = 0;
+
+        for (int[] e : events) {
+            if (active == 0 && e[1] == 1) {
+                // new merged interval begins
+                start = e[0];
+            }
+            active += e[1];
+            if (active == 0) {
+                // merged interval ends
+                res.add(new int[]{start, e[0]});
             }
         }
-        // ans.forEach(q->System.out.print("["+q[0]+","+q[1]+"] "));
-        return ans.toArray(new int[ans.size()][]);
-        // return intervals;
+
+        return res.toArray(new int[res.size()][]);
     }
 }
