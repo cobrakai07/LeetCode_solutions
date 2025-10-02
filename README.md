@@ -955,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3234-double-modular-exponentiation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3234-double-modular-exponentiation) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3336-water-bottles-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3234-double-modular-exponentiation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3234-double-modular-exponentiation) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
