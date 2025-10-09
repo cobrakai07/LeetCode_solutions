@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2388-replace-elements-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2465-shifting-letters-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2690-house-robber-iv) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-closest-subsequence-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2551-apply-operations-to-an-array) |
