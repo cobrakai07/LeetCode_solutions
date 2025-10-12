@@ -21,8 +21,8 @@ class Solution {
         unique.add(prev);
         points.add(sum);
 
-                System.out.println(unique);
-        System.out.println(points);
+                // System.out.println(unique);
+        // System.out.println(points);
         
         // Step 2: memo array
         int n = unique.size();
