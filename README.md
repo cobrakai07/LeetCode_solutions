@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0772-construct-quad-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0829-subdomain-visit-count) |
