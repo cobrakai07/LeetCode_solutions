@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
+| [0282-expression-add-operators](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [1160-letter-tile-possibilities](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1160-letter-tile-possibilities) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
