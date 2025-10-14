@@ -10,13 +10,8 @@ class Solution {
          }
         }
 
-        // System.out.println(Arrays.toString(inc));
-
         if(k==1)
             return  true;
-            
-        boolean occured =  false;
-        int prev = Integer.MIN_VALUE;
 
         for(int i: inc){
             if(i>=k*2)return true;
