@@ -1,28 +1,41 @@
+import java.util.*;
+
 class Solution {
+    public long fun(int i, int[] arr, Map<Integer, Integer> mp, long[] dp) {
+        if (i >= arr.length) return 0;
+        if (dp[i] != -1) return dp[i];
+
+        // Pick current value
+        long pick = (long) arr[i] * mp.get(arr[i]);
+
+        int next = i + 1;
+        // Skip all numbers that are consecutive to arr[i]
+        while (next < arr.length &&( arr[next] == arr[i] + 2 || arr[next] == arr[i] + 1)) {
+            next++;
+        }
+
+        pick += fun(next, arr, mp, dp);
+
+        // Not pick current value
+        long npick = fun(i + 1, arr, mp, dp);
+
+        return dp[i] = Math.max(pick, npick);
+    }
 
     public long maximumTotalDamage(int[] power) {
-        TreeMap<Integer, Integer> count = new TreeMap<>();
+        Map<Integer, Integer> mp = new HashMap<>();
         for (int p : power) {
-            count.put(p, count.getOrDefault(p, 0) + 1);
+            mp.put(p, mp.getOrDefault(p, 0) + 1);
         }
-        List<int[]> vec = new ArrayList<>();
-        vec.add(new int[] { -1000000000, 0 });
-        for (Map.Entry<Integer, Integer> e : count.entrySet()) {
-            vec.add(new int[] { e.getKey(), e.getValue() });
-        }
-        int n = vec.size();
-        long[] f = new long[n];
-        long mx = 0;
-        long ans = 0;
-        int j = 1;
-        for (int i = 1; i < n; i++) {
-            while (j < i && vec.get(j)[0] < vec.get(i)[0] - 2) {
-                mx = Math.max(mx, f[j]);
-                j++;
-            }
-            f[i] = mx + 1L * vec.get(i)[0] * vec.get(i)[1];
-            ans = Math.max(ans, f[i]);
-        }
-        return ans;
+
+        int[] arr = new int[mp.size()];
+        int idx = 0;
+        for (int k : mp.keySet()) arr[idx++] = k;
+        Arrays.sort(arr);
+
+        long[] dp = new long[arr.length];
+        Arrays.fill(dp, -1);
+
+        return fun(0, arr, mp, dp);
     }
 }
