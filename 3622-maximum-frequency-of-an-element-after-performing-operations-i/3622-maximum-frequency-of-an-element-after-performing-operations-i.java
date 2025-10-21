@@ -1,63 +1,63 @@
+import java.util.*;
+
 class Solution {
-
-    public int maxFrequency(int[] nums, int k, int numOperations) {
-        Arrays.sort(nums);
-
-        int ans = 0;
-        Map<Integer, Integer> numCount = new HashMap<>();
-
-        int lastNumIndex = 0;
-        for (int i = 0; i < nums.length; ++i) {
-            if (nums[i] != nums[lastNumIndex]) {
-                numCount.put(nums[lastNumIndex], i - lastNumIndex);
-                ans = Math.max(ans, i - lastNumIndex);
-                lastNumIndex = i;
-            }
-        }
-
-        numCount.put(nums[lastNumIndex], nums.length - lastNumIndex);
-        ans = Math.max(ans, nums.length - lastNumIndex);
-
-        for (int i = nums[0]; i <= nums[nums.length - 1]; i++) {
-            int l = leftBound(nums, i - k);
-            int r = rightBound(nums, i + k);
-            int tempAns;
-            if (numCount.containsKey(i)) {
-                tempAns = Math.min(r - l + 1, numCount.get(i) + numOperations);
+    public int lowerBound(int[] nums, int val) {
+        int l = 0, h = nums.length - 1;
+        int ans = -1;
+        while (l <= h) {
+            int m = l + (h - l) / 2;
+            if (nums[m] >= val) {
+                ans = m;
+                h = m - 1;
             } else {
-                tempAns = Math.min(r - l + 1, numOperations);
+                l = m + 1;
             }
-            ans = Math.max(ans, tempAns);
         }
-
         return ans;
     }
 
-    private int leftBound(int[] nums, int value) {
-        int left = 0;
-        int right = nums.length - 1;
-        while (left < right) {
-            int mid = (left + right) / 2;
-            if (nums[mid] < value) {
-                left = mid + 1;
+    public int upperBound(int[] nums, int val) {
+        int l = 0, h = nums.length - 1;
+        int ans = -1;
+        while (l <= h) {
+            int m = l + (h - l) / 2;
+            if (nums[m] <= val) {
+                ans = m;
+                l = m + 1;
             } else {
-                right = mid;
+                h = m - 1;
             }
         }
-        return left;
+        return ans;
     }
 
-    private int rightBound(int[] nums, int value) {
-        int left = 0;
-        int right = nums.length - 1;
-        while (left < right) {
-            int mid = (left + right + 1) / 2;
-            if (nums[mid] > value) {
-                right = mid - 1;
-            } else {
-                left = mid;
-            }
+    public int maxFrequency(int[] nums, int k, int numOperations) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        int ans = 1;
+
+        // Frequency of each number
+        Map<Integer, Integer> freq = new HashMap<>();
+        for (int x : nums)
+            freq.put(x, freq.getOrDefault(x, 0) + 1);
+
+        int minVal = nums[0], maxVal = nums[n - 1];
+
+        // Enumerate all possible target values
+        for (int m = minVal; m <= maxVal; m++) {
+            int low = lowerBound(nums, m - k);
+            int high = upperBound(nums, m + k);
+
+            // Handle cases when nothing found
+            if (low == -1 || high == -1) continue;
+
+            int range = (high - low + 1);
+            int countM = freq.getOrDefault(m, 0);
+            int f = Math.min(range, numOperations + countM);
+
+            ans = Math.max(ans, f);
         }
-        return left;
+
+        return ans;
     }
 }
