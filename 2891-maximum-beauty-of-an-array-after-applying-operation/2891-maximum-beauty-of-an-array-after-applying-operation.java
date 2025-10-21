@@ -1,32 +1,58 @@
 class Solution {
-
-    public int maximumBeauty(int[] nums, int k) {
-        Arrays.sort(nums);
-        int maxBeauty = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            // Find the farthest index where the value is within the range [nums[i], nums[i] + 2*k]
-            int upperBound = findUpperBound(nums, nums[i] + 2 * k);
-            // Update the maximum beauty based on the current range
-            maxBeauty = Math.max(maxBeauty, upperBound - i + 1);
-        }
-        return maxBeauty;
-    }
-
-    // Helper function to find the largest index where arr[index] <= val
-    private int findUpperBound(int[] arr, int val) {
-        int low = 0, high = arr.length - 1, result = 0;
-
-        // Perform binary search to find the upper bound
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (arr[mid] <= val) {
-                result = mid; // Update the result and move to the right half
-                low = mid + 1;
+    public int lowerBound(int[] nums, int val) {
+        int l = 0, h = nums.length - 1;
+        int ans = -1;
+        while (l <= h) {
+            int m = l + (h - l) / 2;
+            if (nums[m] >= val) {
+                ans = m;
+                h = m - 1;
             } else {
-                high = mid - 1; // Move to the left half
+                l = m + 1;
             }
         }
-        return result;
+        return ans;
+    }
+
+    public int upperBound(int[] nums, int val) {
+        int l = 0, h = nums.length - 1;
+        int ans = -1;
+        while (l <= h) {
+            int m = l + (h - l) / 2;
+            if (nums[m] <= val) {
+                ans = m;
+                l = m + 1;
+            } else {
+                h = m - 1;
+            }
+        }
+        return ans;
+    }
+    public int maximumBeauty(int[] nums, int k) {
+         Arrays.sort(nums);
+        int n = nums.length;
+        int ans = 1;
+
+        // Frequency of each number
+        // Map<Integer, Integer> freq = new HashMap<>();
+        // for (int x : nums)
+        //     freq.put(x, freq.getOrDefault(x, 0) + 1);
+
+        int minVal = nums[0], maxVal = nums[n - 1];
+       for (int m = minVal; m <= maxVal; m++) {
+            int low = lowerBound(nums, m - k);
+            int high = upperBound(nums, m + k);
+
+            // Handle cases when nothing found
+            if (low == -1 || high == -1) continue;
+
+            int range = (high - low + 1);
+            // int countM = freq.getOrDefault(m, 0);
+            // int f = Math.min(range, numOperations + countM);
+
+            ans = Math.max(ans, range);
+        }
+
+        return ans; 
     }
 }
