@@ -1,17 +1,15 @@
 class Solution {
-    public int smallestNumber(int n) {
-        for(int i=n; i<Integer.MAX_VALUE;i++){
-            int num=i;
-            int setBitCount=0;
-            int bitCount=0;
-            while(num!=0){
-                int set=((num&1)==1)?1:0;
-                setBitCount+=set;
-                bitCount++;
-                num=num>>1;
-            }
-            if(bitCount==setBitCount)return i;
+    boolean allSet(int n){
+        while(n!=0){
+            if((n&1)!=1)return false;
+            n=n>>1;
         }
-        return -1;
+        return true;
+    }
+    public int smallestNumber(int n) {
+        while(!allSet(n)){
+            n++;
+        }
+        return n;
     }
 }
