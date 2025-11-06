@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Binary Search
 |  |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Shortest Path
 |  |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 | [3905-partition-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3905-partition-string) |
 ## Matrix
 |  |
@@ -1078,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1089,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Recursion
 |  |
 | ------- |
@@ -1166,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -1325,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Queue
