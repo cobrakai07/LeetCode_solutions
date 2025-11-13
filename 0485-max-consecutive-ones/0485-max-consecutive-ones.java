@@ -3,6 +3,7 @@ class Solution {
         int max = 0;
         int i=0,j=0;
         while(j<nums.length){
+            
             if(i==j){
                 if(nums[i]==0){
                     i++;j++;
