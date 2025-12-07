@@ -1011,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
