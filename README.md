@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1349,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
