@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3334-apple-redistribution-into-boxes) |
