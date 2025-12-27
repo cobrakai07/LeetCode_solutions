@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2388-replace-elements-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2411-spiral-matrix-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2465-shifting-letters-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2402-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2388-replace-elements-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1155,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2388-replace-elements-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2402-meeting-rooms-iii) |
 | [2411-spiral-matrix-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2479-meeting-rooms-iii) |
