@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
@@ -1422,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
