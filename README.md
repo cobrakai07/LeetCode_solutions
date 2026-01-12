@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1325-path-with-maximum-probability) |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -1492,5 +1494,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
