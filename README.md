@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2023-design-movie-rental-system) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1881-closest-subsequence-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
