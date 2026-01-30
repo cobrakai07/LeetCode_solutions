@@ -1,40 +1,48 @@
-record Pair(String str, int len) {
+class Node{
+    String str;
+    int steps;
+    Node(String str, int steps){
+        this.str = str;
+        this.steps = steps;
+    }
 }
-
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> set = new HashSet<>();
-        Set<String> vis = new HashSet<>();
-        for (String s : wordList) {
+
+        Set<String>set = new HashSet<>();
+        for(String s: wordList){
             set.add(s);
         }
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.len() - b.len());
-        pq.offer(new Pair(beginWord, 1));
 
-        while (!pq.isEmpty()) {
+        Queue<Node> queue = new ArrayDeque<>();
+        Set<String>vis = new HashSet<>();
 
-            Pair pair = pq.poll();
-            String s = pair.str();
+        queue.offer(new Node(beginWord,1));
 
-            if (s.equals(endWord))
-                return pair.len();
-            StringBuilder sb = new StringBuilder(s);
-            for (int i = 0; i < s.length(); i++) {
-                for (char c = 'a'; c <= 'z'; c++) {
+        while(!queue.isEmpty()){
+            Node node = queue.poll();
 
-                    char t = sb.charAt(i);
-                    sb.setCharAt(i, c);
-                    if (set.contains(sb.toString()) && !vis.contains(sb.toString())) {
-                        vis.add(sb.toString());
-                        pq.offer(new Pair(sb.toString(), pair.len() + 1));
+            if(node.str.equals(endWord))return node.steps;
+
+            if(vis.contains(node.str))continue;
+            vis.add(node.str);
+
+            char [] arr = node.str.toCharArray();
+            int steps = node.steps;
+            
+            for(int i=0; i<arr.length; i++){
+                for(char ch = 'a'; ch<='z'; ch++){
+                    char temp = arr[i];
+                    arr[i]= ch;
+                    String newStr = new String(arr);
+                    if(set.contains(newStr)){
+                        queue.offer(new Node(newStr,steps+1));
                     }
-
-                    sb.setCharAt(i, t);
+                    arr[i]=temp;
                 }
-
             }
-
         }
+
         return 0;
     }
 }
