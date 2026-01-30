@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1765-map-of-highest-peak](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1765-map-of-highest-peak) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1559-cherry-pickup-ii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1765-map-of-highest-peak](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1765-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-largest-magic-square) |
 | [1972-rotating-the-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1765-map-of-highest-peak](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1765-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
