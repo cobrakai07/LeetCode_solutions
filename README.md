@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0097-interleaving-string) |
+| [0126-word-ladder-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0165-compare-version-numbers) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0207-course-schedule) |
