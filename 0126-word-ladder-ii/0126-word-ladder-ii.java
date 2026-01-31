@@ -106,7 +106,7 @@ class Solution {
             return;
         }
         for (String s : wordList) {
-            if (map.get(s)!=null && map.get(s) == level - 1 && diff(str, s)) {
+            if (map.get(s) != null && map.get(s) == level - 1 && diff(str, s)) {
                 list.add(s);
                 backtrack(s, level - 1, list, wordList, map, beginWord);
                 list.remove(list.size() - 1);
