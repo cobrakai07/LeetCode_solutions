@@ -5,7 +5,6 @@ class Solution {
 
         int secondMin = Integer.MAX_VALUE;
         int thirdMin = Integer.MAX_VALUE;
-        int idxSecondMin = 1;
 
         for(int i= 1; i<n; i++){
             if(secondMin >= nums[i]){
