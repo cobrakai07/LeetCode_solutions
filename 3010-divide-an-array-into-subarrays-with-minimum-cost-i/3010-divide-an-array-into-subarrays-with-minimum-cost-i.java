@@ -8,17 +8,14 @@ class Solution {
         int idxSecondMin = 1;
 
         for(int i= 1; i<n; i++){
-            if(secondMin > nums[i]){
+            if(secondMin >= nums[i]){
+                thirdMin = secondMin;
                 secondMin = nums[i];
-                idxSecondMin = i;
-            }
-        }
-        for(int i= 1; i<n; i++){
-            if(thirdMin > nums[i] && i!=idxSecondMin){
+            }else if(thirdMin > nums[i] && nums[i]> secondMin){
                 thirdMin = nums[i];
-                
             }
         }
+     
         // System.out.println(secondMin);
         // System.out.println(thirdMin);
         return min+secondMin+thirdMin;
