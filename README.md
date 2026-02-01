@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1505,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
 | [1656-count-good-triplets](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Topological Sort
