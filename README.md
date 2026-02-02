@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-alternating-groups-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
