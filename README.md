@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 ## Database
 |  |
 | ------- |
@@ -933,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3606-coupon-code-validator](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3750-closest-equal-element-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1346,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Strongly Connected Component
 |  |
