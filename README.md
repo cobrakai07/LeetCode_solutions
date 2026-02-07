@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0413-arithmetic-slices) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
