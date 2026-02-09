@@ -1,39 +1,49 @@
 class Solution {
-    public long maxScore(int[] a, int[] b, int k) {
+    final long NEG = Long.MIN_VALUE / 4;
+    long[][][] dp;
+    int[] a, b;
+
+    public long dfs(int i, int j, int k) {
+
+        // base cases
+        if (k == 0) return 0;
+        if (i == a.length || j == b.length) return NEG;
+
+        // 🔥 PRUNING: not enough elements left
+        if (a.length - i < k || b.length - j < k)
+            return NEG;
+
+        if (dp[i][j][k] != NEG)
+            return dp[i][j][k];
+
+        long res = NEG;
+
+        // take current pair
+        res = Math.max(res,
+                1L * a[i] * b[j] + dfs(i + 1, j + 1, k - 1));
+
+        // skip a[i]
+        res = Math.max(res,
+                dfs(i + 1, j, k));
+
+        // skip b[j]
+        res = Math.max(res,
+                dfs(i, j + 1, k));
+
+        return dp[i][j][k] = res;
+    }
+
+    public long maxScore(int[] nums1, int[] nums2, int k) {
+        this.a = nums1;
+        this.b = nums2;
+
         int n = a.length, m = b.length;
-        long NEG = Long.MIN_VALUE / 4;
+        dp = new long[n][m][k + 1];
 
-        long[][][] dp = new long[n + 1][m + 1][k + 1];
+        for (long[][] x : dp)
+            for (long[] y : x)
+                Arrays.fill(y, NEG);
 
-        for (int i = 0; i <= n; i++)
-            for (int j = 0; j <= m; j++)
-                Arrays.fill(dp[i][j], NEG);
-
-        dp[0][0][0] = 0;
-
-        for (int i = 0; i <= n; i++) {
-            for (int j = 0; j <= m; j++) {
-                for (int x = 0; x <= k; x++) {
-                    if (dp[i][j][x] == NEG) continue;
-
-                    // skip a[i]
-                    if (i < n)
-                        dp[i + 1][j][x] = Math.max(dp[i + 1][j][x], dp[i][j][x]);
-
-                    // skip b[j]
-                    if (j < m)
-                        dp[i][j + 1][x] = Math.max(dp[i][j + 1][x], dp[i][j][x]);
-
-                    // take pair
-                    if (i < n && j < m && x < k) {
-                        dp[i + 1][j + 1][x + 1] =
-                            Math.max(dp[i + 1][j + 1][x + 1],
-                                     dp[i][j][x] + 1L * a[i] * b[j]);
-                    }
-                }
-            }
-        }
-
-        return dp[n][m][k];
+        return dfs(0, 0, k);
     }
 }
