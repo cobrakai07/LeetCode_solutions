@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
+| [3713-longest-balanced-substring-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
 | ------- |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3905-partition-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3905-partition-string) |
 ## Binary Indexed Tree
 |  |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3713-longest-balanced-substring-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3750-closest-equal-element-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
@@ -1551,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Topological Sort
 |  |
 | ------- |
