@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
+| [0799-champagne-tower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0967-minimum-falling-path-sum) |
