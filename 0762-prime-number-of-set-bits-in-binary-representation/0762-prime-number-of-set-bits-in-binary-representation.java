@@ -22,15 +22,23 @@ class Solution {
         }
         return prime;
     }
-   
+    
+    public int countSetBits(int n){
+        int count = 0;
+        while(n!=0){
+            n = n&(n-1);
+            count ++;
+        }
+        return count;
+    }
     
     public int countPrimeSetBits(int left, int right) {
 
         int ans = 0;
 
         while(left<=right){
-            int setBits = Integer.bitCount(left);
-            if(isPrime[setBits])ans++;
+            // int setBits = Integer.bitCount(left);
+            if(isPrime[countSetBits(left)])ans++;
             left++;
         }
 
