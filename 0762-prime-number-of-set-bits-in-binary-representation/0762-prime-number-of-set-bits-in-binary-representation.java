@@ -1,5 +1,5 @@
 class Solution {
-    static int MAX = 65;     
+    static int MAX = 33;     
     static boolean[] isPrime;        
 
     static {
