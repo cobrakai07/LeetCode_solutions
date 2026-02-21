@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1250-longest-common-subsequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1036-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
