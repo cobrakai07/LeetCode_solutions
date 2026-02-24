@@ -14,36 +14,35 @@
  * }
  */
 class Solution {
-    int total = 0;
+    
+
     public int sum(int n, TreeNode root) {
-        if(root==null)return 0;
-        if(root.left==null && root.right==null){
-             if(root.val==1){
-            n = 1|(n<<1);
-        }else{
-            n = n<<1;
-        }
-            // System.out.println(Integer.toBinaryString(n));
-            total += n;
+        if (root == null)
             return 0;
+        if (root.left == null && root.right == null) {
+            if (root.val == 1)
+                n = 1 | (n << 1);
+            else
+                n = n << 1;
+
+            return n;
         }
 
-        if(root.val==1){
-            n = 1|(n<<1);
-        }else{
-            n = n<<1;
+        if (root.val == 1) {
+            n = 1 | (n << 1);
+        } else {
+            n = n << 1;
         }
 
-        int left = 0, right =0;
-// System.out.println(Integer.toBinaryString(n)+" ....");
-        left =  sum(n, root.left);
+        int left = 0, right = 0;
+        // System.out.println(Integer.toBinaryString(n)+" ....");
+        left = sum(n, root.left);
         right = sum(n, root.right);
 
-        return left+right;
+        return left + right;
     }
 
     public int sumRootToLeaf(TreeNode root) {
-        int rand = sum(0, root);
-        return total;
+        return sum(0, root);
     }
 }
