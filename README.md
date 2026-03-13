@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3334-apple-redistribution-into-boxes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -1163,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3234-double-modular-exponentiation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3234-double-modular-exponentiation) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
