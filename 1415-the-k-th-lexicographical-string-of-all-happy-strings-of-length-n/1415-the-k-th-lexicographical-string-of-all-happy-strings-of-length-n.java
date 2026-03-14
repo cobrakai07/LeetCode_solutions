@@ -1,47 +1,41 @@
 class Solution {
-    String str="";
+    String str = "";
     int counter;
-    public void madeString(String s, int n, int k, boolean[]isFound){
-        if(isFound[0])return;
-        if(n==0){
+
+    public void madeString(String s, int n, int k, boolean[] isFound) {
+        if (isFound[0])
+            return;
+        if (n == 0) {
             counter++;
-            if(counter==k){
+            if (counter == k) {
                 str = s;
                 isFound[0] = true;
             }
-            return; 
+            return;
         }
-        if(s.length()==0){
-            s = s+"a";
-            madeString(s,n-1,k,isFound);
-            s = s.substring(0,s.length()-1);
+        if (s.length() == 0) {
 
-            s = s+"b";
-            madeString(s,n-1,k,isFound);
-            s = s.substring(0,s.length()-1);
+            for (char c = 'a'; c <= 'c'; c++) {
+                s = s + c;
+                madeString(s, n - 1, k, isFound);
+                s = s.substring(0, s.length() - 1);
+            }
 
-            s = s+"c";
-            madeString(s,n-1,k,isFound);
-            s = s.substring(0,s.length()-1);
-        }else{
-            if(s.charAt(s.length()-1)!='a'){
-            s = s+"a";
-            madeString(s,n-1, k,isFound);
-            s = s.substring(0,s.length()-1);}
+        } else {
 
-            if(s.charAt(s.length()-1)!='b'){
-            s = s+"b";
-            madeString(s,n-1, k,isFound);
-            s = s.substring(0,s.length()-1);}
+            for (char c = 'a'; c <= 'c'; c++) {
+                if (s.charAt(s.length() - 1) == c)
+                    continue;
+                s = s + c;
+                madeString(s, n - 1, k, isFound);
+                s = s.substring(0, s.length() - 1);
+            }
 
-            if(s.charAt(s.length()-1)!='c'){
-            s = s+"c";
-            madeString(s,n-1, k,isFound);
-            s = s.substring(0,s.length()-1);}
         }
     }
+
     public String getHappyString(int n, int k) {
-        madeString("",n,k, new boolean[]{false});
+        madeString("", n, k, new boolean[] { false });
         return str;
     }
 }
