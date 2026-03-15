@@ -63,7 +63,7 @@ class SegmentTree {
             updatePoint(2 * i + 1, l, mid, idx, val);
         }
 
-        seg[i] = (seg[2 * i + 1] + seg[2 * i + 2]) % mod;
+        // seg[i] = (seg[2 * i + 1] + seg[2 * i + 2]) % mod;
     }
 
     public void rangeUpdate(int i, int l, int r, int x, int y, int val, boolean addOperation) {
