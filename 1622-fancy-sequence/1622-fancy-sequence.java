@@ -92,7 +92,7 @@ class SegmentTree {
         rangeUpdate(2 * i + 1, l, mid, x, y, val, addOperation);
         rangeUpdate(2 * i + 2, mid + 1, r, x, y, val, addOperation);
 
-        seg[i] = (seg[2 * i + 1] + seg[2 * i + 2]) % mod;
+        // seg[i] = (seg[2 * i + 1] + seg[2 * i + 2]) % mod;
     }
 }
 
