@@ -1076,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1622-fancy-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1622-fancy-sequence) |
 | [1905-design-authentication-manager](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1905-design-authentication-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2023-design-movie-rental-system) |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1587,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0732-my-calendar-iii) |
+| [1622-fancy-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3438-peaks-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3438-peaks-in-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
