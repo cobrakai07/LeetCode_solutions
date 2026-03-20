@@ -13,7 +13,6 @@ class Solution {
         // System.out.println(list);
         for(int it=0;it<list.size()-1;it++){
             min = Math.min(min, Math.abs(list.get(it)- list.get(it+1)));
-            min = Math.min(min, Math.abs(list.get(it+1)- list.get(it)));
         }
         return min;
     }
