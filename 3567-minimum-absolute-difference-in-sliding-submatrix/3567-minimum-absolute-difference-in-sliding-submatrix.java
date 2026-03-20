@@ -2,8 +2,8 @@ class Solution {
     public int findMin(int[][] arr, int i, int j, int k){
         int min = Integer.MAX_VALUE;
         Set<Integer> set = new HashSet<>();
-        for(int x = i;x<i+k && x<arr.length;x++){
-            for(int y=j;y<j+k && y<arr[0].length;y++){
+        for(int x = i;x<i+k;x++){
+            for(int y=j;y<j+k;y++){
                 set.add(arr[x][y]);
             }
         }
