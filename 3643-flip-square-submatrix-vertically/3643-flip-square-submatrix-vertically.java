@@ -9,14 +9,8 @@ class Solution {
         }
     }
     public int[][] reverseSubmatrix(int[][] grid, int x, int y, int k) {
-        for(int i=0; i<grid.length; i++){
-            for(int j=0;j<grid[0].length; j++){
-                if(x==i && y==j){
-                    flip(x,y,k,grid);
-                    return grid;
-                }
-            }
-        }
+       
+        flip(x,y,k,grid);
         return grid;
     }
 }
