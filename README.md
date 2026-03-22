@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1881-closest-subsequence-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1881-closest-subsequence-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-largest-magic-square) |
 | [1923-sentence-similarity-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1923-sentence-similarity-iii) |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1765-map-of-highest-peak](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1765-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1895-largest-magic-square) |
 | [1972-rotating-the-box](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
