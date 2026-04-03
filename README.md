@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3750-closest-equal-element-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Graph
 |  |
 | ------- |
