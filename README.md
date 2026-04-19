@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-sum-of-unique-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1881-closest-subsequence-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1881-closest-subsequence-sum) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2280-count-good-triplets-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1881-closest-subsequence-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1923-sentence-similarity-iii) |
