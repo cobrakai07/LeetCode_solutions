@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2107-find-unique-binary-string) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1975-maximum-matrix-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
