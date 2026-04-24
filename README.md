@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2833-furthest-point-from-origin](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2757-count-of-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2757-count-of-integers) |
+| [2833-furthest-point-from-origin](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
