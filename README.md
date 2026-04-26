@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1559-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1559-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -1401,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -1718,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Biconnected Component
 |  |
