@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0312-burst-balloons) |
 | [0343-integer-break](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0413-arithmetic-slices) |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0650-2-keys-keyboard) |
