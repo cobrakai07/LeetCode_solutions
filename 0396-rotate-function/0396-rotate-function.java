@@ -11,8 +11,8 @@ class Solution {
 
         int max = F;
 
-        for(int i=0;i<n;i++){
-            int currMax = F + sum - (n*nums[n-1-i]);
+        for(int i=1;i<n;i++){
+            int currMax = F + sum - (n*nums[n-i]);
             F = currMax;
             max = Math.max(currMax,max);
         }
