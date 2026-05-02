@@ -5,14 +5,14 @@ class Solution {
         int ans = 0;
         for (int i = 1; i <= n; i++) {
 
-            StringBuilder sb = new StringBuilder(i+"");
+            StringBuilder sb = new StringBuilder(i + "");
             StringBuilder sbnew = new StringBuilder();
 
             boolean valid = true;
 
             for (int it = 0; it < sb.length(); it++) {
                 int num = sb.charAt(it) - '0';
-                // System.out.println(num);
+
                 if (num == 3 || num == 4 || num == 7) {
                     valid = false;
                     break;
@@ -26,14 +26,13 @@ class Solution {
                     };
                     sbnew.append(temp);
                 } else {
-                    sbnew.append(num+"");
+                    sbnew.append(num + "");
                 }
             }
-            // System.out.println(sbnew);
+
             if (sbnew.length() == 0)
                 continue;
             int newnum = Integer.parseInt(sbnew.toString());
-            // if(valid && newnum !=i)
 
             if (valid && i != newnum)
                 ans++;
