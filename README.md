@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
+| [0788-rotated-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0799-champagne-tower) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0918-maximum-sum-circular-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
