@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0064-minimum-path-sum) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0070-climbing-stairs) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
