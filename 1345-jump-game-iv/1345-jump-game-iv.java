@@ -1,62 +1,64 @@
 class Solution {
 
+    record Node(int id, int step) {}
+
     public int minJumps(int[] arr) {
 
         int n = arr.length;
 
-        if (n == 1)
-            return 0;
-
         Map<Integer, List<Integer>> map = new HashMap<>();
 
         for (int i = 0; i < n; i++) {
-            map.computeIfAbsent(arr[i], k -> new ArrayList<>()).add(i);
+
+            int val = arr[i];
+
+            if (map.get(val) == null) {
+                List<Integer> list = new ArrayList<>();
+                list.add(i);
+                map.put(val, list);
+            } else {
+                List<Integer> list = map.get(val);
+                list.add(i);
+            }
         }
 
-        Queue<Integer> queue = new ArrayDeque<>();
         boolean[] visited = new boolean[n];
 
-        queue.offer(0);
-        visited[0] = true;
+        Queue<Node> queue = new ArrayDeque<>();
 
-        int steps = 0;
+        queue.offer(new Node(0, 0));
 
         while (!queue.isEmpty()) {
 
-            int size = queue.size();
+            Node node = queue.poll();
 
-            while (size-- > 0) {
+            int id = node.id();
+            int step = node.step();
 
-                int id = queue.poll();
+            if (visited[id])
+                continue;
 
-                if (id == n - 1)
-                    return steps;
+            visited[id] = true;
 
-                if (id + 1 < n && !visited[id + 1]) {
-                    visited[id + 1] = true;
-                    queue.offer(id + 1);
-                }
+            if (id == n - 1)
+                return step;
 
-                if (id - 1 >= 0 && !visited[id - 1]) {
-                    visited[id - 1] = true;
-                    queue.offer(id - 1);
-                }
+            if (id + 1 < n)
+                queue.offer(new Node(id + 1, step + 1));
 
-                if (map.containsKey(arr[id])) {
+            if (id - 1 >= 0)
+                queue.offer(new Node(id - 1, step + 1));
 
-                    for (int next : map.get(arr[id])) {
+            if (!map.containsKey(arr[id]))
+                continue;
 
-                        if (!visited[next]) {
-                            visited[next] = true;
-                            queue.offer(next);
-                        }
-                    }
+            List<Integer> list = map.get(arr[id]);
 
-                    map.remove(arr[id]);
-                }
+            for (int nid : list) {
+                queue.offer(new Node(nid, step + 1));
             }
 
-            steps++;
+            map.remove(arr[id]);
         }
 
         return -1;
