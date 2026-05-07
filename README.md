@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1306-jump-game-iii) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1304,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1306-jump-game-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -1414,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1306-jump-game-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
