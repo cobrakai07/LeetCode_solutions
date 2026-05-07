@@ -8,7 +8,7 @@ class Solution {
         int canJump = nums[i];
         while(canJump!=0){
             if(jump(i+canJump,nums,dp))
-                return dp[i+canJump] = true;
+                return dp[i] = true;
             canJump--;
         }
         return dp[i] = false;
