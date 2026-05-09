@@ -4,41 +4,41 @@ class Solution {
                         int k, int th,
                         List<List<int[]>> adj) {
 
-        Deque<int[]> dq = new ArrayDeque<>();
+        Queue<int[]> q = new ArrayDeque<>();
 
-        int[] dist = new int[n];
-        Arrays.fill(dist, Integer.MAX_VALUE);
+        // vis[node] = minimum heavy edges used to reach node
+        
+        int[] vis = new int[n];
+        Arrays.fill(vis, Integer.MAX_VALUE);
 
-        dist[source] = 0;
-        dq.offerFirst(new int[]{source, 0});
+        q.offer(new int[]{source, 0});
+        vis[source] = 0;
 
-        while (!dq.isEmpty()) {
+        while (!q.isEmpty()) {
 
-            int[] cur = dq.pollFirst();
+            int[] arr = q.poll();
 
-            int node = cur[0];
-            int heavy = cur[1];
+            int node = arr[0];
+            int he = arr[1];
 
-            if (node == target) {
-                return true;
-            }
+            if (node == target) return true;
 
-            for (int[] nei : adj.get(node)) {
+            for (int[] anode : adj.get(node)) {
 
-                int next = nei[0];
-                int w = nei[1];
+                int adjNode = anode[0];
+                int cw = anode[1];
 
-                int newHeavy = heavy + (w > th ? 1 : 0);
+                int newHeavy = he;
 
-                if (newHeavy < dist[next] && newHeavy <= k) {
+                if (cw > th) {
+                    newHeavy++;
+                }
 
-                    dist[next] = newHeavy;
+                if (newHeavy <= k && newHeavy < vis[adjNode]) {
 
-                    if (w > th) {
-                        dq.offerLast(new int[]{next, newHeavy});
-                    } else {
-                        dq.offerFirst(new int[]{next, newHeavy});
-                    }
+                    vis[adjNode] = newHeavy;
+
+                    q.offer(new int[]{adjNode, newHeavy});
                 }
             }
         }
@@ -52,8 +52,6 @@ class Solution {
         if (source == target) {
             return 0;
         }
-
-        
 
         List<List<int[]>> adj = new ArrayList<>();
 
@@ -78,15 +76,15 @@ class Solution {
 
         while (l <= h) {
 
-            int mid = l + (h - l) / 2;
+            int m = l + (h - l) / 2;
 
-            if (path(n, source, target, k, mid, adj)) {
+            boolean val = path(n, source, target, k, m, adj);
 
-                ans = mid;
-                h = mid - 1;
-
+            if (val) {
+                ans = m;
+                h = m - 1;
             } else {
-                l = mid + 1;
+                l = m + 1;
             }
         }
 
