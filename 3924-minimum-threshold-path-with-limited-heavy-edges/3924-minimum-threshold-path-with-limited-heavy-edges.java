@@ -53,8 +53,7 @@ class Solution {
             return 0;
         }
 
-        // required by problem statement
-        int[][] tarnicuvo = edges;
+        
 
         List<List<int[]>> adj = new ArrayList<>();
 
