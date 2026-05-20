@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2689-rearranging-fruits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1592,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2509-minimize-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
