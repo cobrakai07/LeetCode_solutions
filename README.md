@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0075-sort-colors) |
@@ -1661,6 +1663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0812-rotate-string) |
