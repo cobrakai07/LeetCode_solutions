@@ -45,7 +45,7 @@ class Solution {
 
                 windowHash = (windowHash - (leftChar * power) % mod + mod) % mod;
 
-                windowHash = ((windowHash * base)+ newChar) % mod;
+                windowHash = ((windowHash * base) + newChar) % mod;
             }
         }
 
