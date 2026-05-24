@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1306-jump-game-iii) |
 | [1311-largest-magic-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1325-path-with-maximum-probability) |
+| [1340-jump-game-v](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1340-jump-game-v](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1340-jump-game-v](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
