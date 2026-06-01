@@ -1,11 +1,12 @@
 class Solution {
     public int minimumCost(int[] cost) {
-        Arrays.sort(cost);
         if(cost.length<3){
             int s =0;
             for(int i: cost)s+=i;
             return s;
         }
+        Arrays.sort(cost);
+        
         int c=0;
         int last = cost.length-1;
         int secondLast = cost.length-2;
