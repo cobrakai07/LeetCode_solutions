@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -1563,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1591,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Data Stream
