@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3606-coupon-code-validator) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1299,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
@@ -1485,6 +1488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
@@ -1574,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
@@ -1639,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Rolling Hash
