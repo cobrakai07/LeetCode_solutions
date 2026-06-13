@@ -1,37 +1,41 @@
 class TreeAncestor {
-    int LOG = 16; // max log2(n), can be 16 for n <= 1e5
-    int[][] up; // up[node][j] = 2^j-th ancestor of node
-
+    int[][] up;
+    int col;
+    int n;
     public TreeAncestor(int n, int[] parent) {
-        // compute log dynamically if needed
-        LOG = (int) (Math.ceil(Math.log(n) / Math.log(2))) + 1;
-        up = new int[n][LOG];
+        this.n = n;
+        col = (int)Math.ceil(Math.log(n)/Math.log(2))+1;
+        up = new int[n][col];
 
-        // Fill the 0th ancestor (direct parent)
-        for (int i = 0; i < n; i++) {
-            up[i][0] = parent[i];
+        for(int i=0;i<parent.length;i++){
+            up[i][0]=parent[i];
         }
 
-        // Fill all 2^j ancestors using DP
-        for (int j = 1; j < LOG; j++) {
-            for (int i = 0; i < n; i++) {
-                if (up[i][j - 1] != -1) {
-                    up[i][j] = up[up[i][j - 1]][j - 1];
-                } else {
-                    up[i][j] = -1;
+        for(int i=1;i<col;i++){
+            for(int node =0;node<n;node++){
+                if( up[node][i-1]!=-1){
+                    up[node][i]= up[up[node][i-1]][i-1];
+                }else{
+                    up[node][i] = -1;
                 }
             }
         }
     }
-
+    
     public int getKthAncestor(int node, int k) {
-        for (int j = 0; j < LOG; j++) {
-            if (((k >> j) & 1) == 1) { // if j-th bit of k is set
-                node = up[node][j];
-                if (node == -1)
-                    break; // no ancestor exists
+       
+        for(int i = 0;i<col; i++){
+            if((k&(1<<i))!=0){
+                node = up[node][i];
+                if(node==-1)return -1;
             }
         }
         return node;
     }
 }
+
+/**
+ * Your TreeAncestor object will be instantiated and called as such:
+ * TreeAncestor obj = new TreeAncestor(n, parent);
+ * int param_1 = obj.getKthAncestor(node,k);
+ */
