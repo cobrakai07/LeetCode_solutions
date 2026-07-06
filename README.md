@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1288-remove-covered-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
