@@ -1346,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3830-find-closest-person) |
 ## Sliding Window
