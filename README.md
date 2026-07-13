@@ -1805,6 +1805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
+| [1291-sequential-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
