@@ -26,7 +26,7 @@ class Solution {
             // System.out.println(pq);
             // System.out.println("-----");
             Node currNode = pq.poll();
-            String str = currNode.x()+","+currNode.y()+","+currNode.cost()+","+currNode.isEven();
+            String str = currNode.x()+","+currNode.y()+","+currNode.isEven();
             if(vis.contains(str))continue;
             vis.add(str);
             long waitCost = penalty[currNode.x()][currNode.y()]+ currNode.cost();
