@@ -857,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2757-count-of-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2757-count-of-integers) |
 | [2833-furthest-point-from-origin](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
