@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0650-2-keys-keyboard) |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1468,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1912,4 +1916,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1192-critical-connections-in-a-network) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
