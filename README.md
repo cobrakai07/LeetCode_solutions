@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0859-design-circular-deque) |
+| [0877-stone-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0878-shifting-letters](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0787-sliding-puzzle) |
 | [0788-rotated-digits](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0918-maximum-sum-circular-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -1327,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0856-consecutive-numbers-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0856-consecutive-numbers-sum) |
+| [0877-stone-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1018-largest-perimeter-triangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1920,4 +1923,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
