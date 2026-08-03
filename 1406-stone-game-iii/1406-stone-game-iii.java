@@ -15,10 +15,26 @@ class Solution {
 
     }
 
+    public int funIterative(int n, int[] arr, int[] dp) {
+
+        for (int i = n - 1; i >= 0; i--) {
+            
+            dp[i] = arr[i] - dp[i + 1];
+            if (i + 1 < n)
+                dp[i] = Math.max(dp[i] , arr[i] + arr[i + 1] - dp[i + 2]);
+            if (i + 2 < n)
+                dp[i] = Math.max(dp[i] , arr[i] + arr[i + 1] + arr[i + 2] - dp[i + 3]);
+        }
+
+        return dp[0];
+
+    }
+
     public String stoneGameIII(int[] stoneValue) {
-        int[] dp = new int[stoneValue.length];
-        Arrays.fill(dp, Integer.MIN_VALUE / 2);
-        int val = fun(0, stoneValue.length, stoneValue, dp);
+        int[] dp = new int[stoneValue.length + 3];
+        // Arrays.fill(dp, Integer.MIN_VALUE / 2);
+        // int val = fun(0, stoneValue.length, stoneValue, dp);
+        int val = funIterative(stoneValue.length, stoneValue, dp);
         return val == 0 ? ("Tie") : (val < 1 ? "Bob" : "Alice");
     }
 }
