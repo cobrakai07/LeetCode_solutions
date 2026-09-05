@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Binary Search
 |  |
@@ -1666,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3903-smallest-stable-index-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Strongly Connected Component
 |  |
 | ------- |
