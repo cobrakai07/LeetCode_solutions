@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
+| [4015-weighted-sum-of-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -1606,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
+| [4015-weighted-sum-of-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -1705,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [4015-weighted-sum-of-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
