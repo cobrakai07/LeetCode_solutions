@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0120-triangle) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0132-palindrome-partitioning-ii) |
