@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0918-maximum-sum-circular-subarray](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0889-buddy-strings) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1129-longest-string-chain](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1129-longest-string-chain) |
