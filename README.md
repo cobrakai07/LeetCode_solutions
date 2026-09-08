@@ -1409,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3830-find-closest-person) |
+| [3870-count-commas-in-range](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
