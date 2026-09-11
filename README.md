@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3438-peaks-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3438-peaks-in-array) |
 | [3483-alternating-groups-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-most-frequent-ids](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3363-most-frequent-ids) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3483-unique-3-digit-even-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1513,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/cobrakai07/LeetCode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -1894,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Topological Sort
