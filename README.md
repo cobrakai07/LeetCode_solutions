@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3396-valid-word](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3451-string-compression-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1553,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3234-double-modular-exponentiation](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3234-double-modular-exponentiation) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
