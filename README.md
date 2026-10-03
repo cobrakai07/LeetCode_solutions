@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4015-weighted-sum-of-a-tree](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4015-weighted-sum-of-a-tree) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3908-minimum-time-for-k-connected-components) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3636-threshold-majority-queries](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3636-threshold-majority-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3713-longest-balanced-substring-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Database
 |  |
 | ------- |
@@ -1166,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3809-properties-graph](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
 | [3905-partition-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3905-partition-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -1511,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3863-power-grid-maintenance](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3863-power-grid-maintenance) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Recursion
 |  |
 | ------- |
@@ -1566,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3838-weighted-word-mapping) |
 | [3905-partition-string](https://github.com/cobrakai07/LeetCode_solutions/tree/master/3905-partition-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/cobrakai07/LeetCode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Depth-First Search
 |  |
 | ------- |
