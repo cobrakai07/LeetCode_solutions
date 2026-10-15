@@ -3,15 +3,11 @@ class Solution {
         int ans = 0;
         int n = nums.size();
         for (int i = 0; i < n; i++) {
-
+            Set<Integer> set = new HashSet<>();
+            int sum = 0;
             for (int j = i; j < n; j++) {
-                Set<Integer> set = new HashSet<>();
-                int sum = 0;
-                
-                for (int k = i; k <= j; k++) {
-                    set.add(nums.get(k));
-                }
-                ans = ans + set.size()*set.size();
+               set.add(nums.get(j));
+                ans = ans + set.size()*set.size();  
             }
 
         }
