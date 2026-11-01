@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cobrakai07/LeetCode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
